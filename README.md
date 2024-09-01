@@ -24,4 +24,3 @@
 
 <h3 align="left">Support:</h3>
 <p align="left"><a href="https://www.buymeacoffee.com/jashkaran_joshi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jashkaran_joshi" /></a></p><br><br>
-<br clear="both">
