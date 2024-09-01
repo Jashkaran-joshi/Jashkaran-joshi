@@ -21,6 +21,3 @@
   <a href="https://instagram.com/jashkaran_joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jashkaran_joshi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jaskaran joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaskaran joshi" height="30" width="40" /></a> 
 </p>
-
-<h3 align="left">Support:</h3>
-<p align="left"><a href="https://www.buymeacoffee.com/jashkaran_joshi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jashkaran_joshi" /></a></p><br><br>
