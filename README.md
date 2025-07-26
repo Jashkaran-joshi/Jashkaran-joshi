@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaskaran Joshi</h1>
 <h3 align="center">A passionate Cybersecurity Engineer</h3>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jashkaran-joshi/count.svg?"  />
-</div>
-
 - 🔭 I’m currently working on **my own projects**
 
 - 🌱 I’m currently learning **Cyber Security frameworks, courses, etc.**
