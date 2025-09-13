@@ -46,9 +46,9 @@ Here are some of my highlighted projects:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [TitanAx-Labs](https://github.com/Jashkaran-joshi/TitanAx-Labs) | AI-powered platform to generate frontend, backend, and database code | React, Node.js, Django, Tailwind |
-| [Tourism-Information-System-TIS](https://github.com/Jashkaran-joshi/Tourism-Information-System-TIS) | Travel web app with destination deals and admin management | Django, PostgreSQL, Bootstrap |
-| [Learning Management System-LMS](https://github.com/Jashkaran-joshi/Learning-Management-System-LMS) | Complete LMS with role-based access for Admin, Teacher, Student | Django, Bootstrap, PostgreSQL |
+| [TitanAx-Labs](https://github.com/Jashkaran-joshi/TitanAx-Labs) | AI-powered platform to generate frontend, backend, and database code | React, Node.js, Express, Tailwind |
+| [Tourism-Information-System-TIS](https://github.com/Jashkaran-joshi/Tourism-Information-System-TIS) | Travel web app with destination deals and admin management | Django, PostgreSQL, Bootstrap, Python |
+| [Learning Management System-LMS](https://github.com/Jashkaran-joshi/Learning-Management-System-LMS) | Complete LMS with role-based access for Admin, Teacher, Student | Django, Bootstrap, PostgreSQL, Python |
 | [Hangman-Game](https://github.com/Jashkaran-joshi/Hangman-Game) | GUI-based classic word guessing game | Python, Tkinter |
 
 > More projects can be found on my [GitHub profile](https://github.com/Jashkaran-joshi).  
