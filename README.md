@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Certified+Ethical+Hacker+%F0%9F%9B%A1%EF%B8%8F+%7C+Full+Stack+Developer;React+%E2%80%A2+MERN+%E2%80%A2+Python+%E2%80%A2+Django+%E2%80%A2+Next.js;Building+Secure%2C+Scalable%2C+Production-Ready+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Social Badges -->
 <p align="center">
