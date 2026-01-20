@@ -3,7 +3,7 @@
 <!-- Header Wave Animation -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jaskaran%20Joshi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Security-First%20Full%20Stack%20Developer&descAlignY=55&descAlign=50&descSize=20"/>
 
-<br/><br/>
+<br/>
 
 <!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg">
