@@ -3,14 +3,14 @@
 <!-- Header Wave Animation -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jaskaran%20Joshi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Security-First%20Full%20Stack%20Developer&descAlignY=55&descAlign=50&descSize=20"/>
 
-<br/>
+<br/><br/>
 
 <!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Certified+Ethical+Hacker+%F0%9F%9B%A1%EF%B8%8F+%7C+Full+Stack+Developer;React+%E2%80%A2+MERN+%E2%80%A2+Python+%E2%80%A2+Django+%E2%80%A2+Next.js;Building+Secure%2C+Scalable%2C+Production-Ready+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Social Badges -->
 <p align="center">
@@ -34,6 +34,8 @@
   </a>
 </p>
 
+<br/>
+
 <!-- Profile Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jashkaran-joshi&label=Profile%20Views&color=6366F1&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
@@ -42,7 +44,7 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
