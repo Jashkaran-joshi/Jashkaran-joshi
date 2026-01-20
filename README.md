@@ -296,21 +296,45 @@ const currentFocus = {
 
 <br/>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jashkaran-joshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jashkaran-joshi&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jashkaran-joshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jashkaran-joshi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9&area=true&area_color=6366F1" alt="Contribution Graph" width="98%"/>
-</p>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jashkaran-joshi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+**📈 GitHub Stats**
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jashkaran-joshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
+
+</td>
+<td width="50%" align="center">
+
+**🔥 Contribution Streak**
+
+<img src="https://streak-stats.demolab.com/?user=Jashkaran-joshi&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&dates=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**📊 Most Used Languages**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jashkaran-joshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=10&exclude_repo=&hide=Jupyter%20Notebook" alt="Top Languages" width="45%"/>
+
+<br/><br/>
+
+**📈 Contribution Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jashkaran-joshi&custom_title=Jaskaran's%20Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9&area=true&area_color=6366F1" alt="Contribution Graph" width="98%"/>
+
+<br/><br/>
+
+**🏆 GitHub Trophies**
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jashkaran-joshi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" alt="GitHub Trophies"/>
+
 </div>
 
 <br/>
