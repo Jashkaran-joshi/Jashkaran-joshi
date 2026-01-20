@@ -34,8 +34,6 @@
   </a>
 </p>
 
-<br/>
-
 <!-- Profile Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jashkaran-joshi&label=Profile%20Views&color=6366F1&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
@@ -44,7 +42,7 @@
 
 </div>
 
-<br/><br/>
+<br/>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
