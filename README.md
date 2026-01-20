@@ -309,9 +309,9 @@ const currentFocus = {
 </td>
 <td width="50%" align="center">
 
-**🔥 Contribution Streak**
+**🔥 GitHub Activity**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jashkaran-joshi&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" alt="GitHub Streak" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jashkaran-joshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Activity" width="100%"/>
 
 </td>
 </tr>
@@ -321,19 +321,13 @@ const currentFocus = {
 
 **📊 Most Used Languages**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jashkaran-joshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=10&exclude_repo=&hide=Jupyter%20Notebook" alt="Top Languages" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jashkaran-joshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=10" alt="Top Languages" width="45%"/>
 
 <br/><br/>
 
 **📈 Contribution Graph**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jashkaran-joshi&custom_title=Jaskaran's%20Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9&area=true&area_color=6366F1" alt="Contribution Graph" width="98%"/>
-
-<br/><br/>
-
-**🏆 GitHub Trophies**
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jashkaran-joshi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jashkaran-joshi&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9&area=true" alt="Contribution Graph" width="98%"/>
 
 </div>
 
