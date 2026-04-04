@@ -1,86 +1,86 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,18,30&height=220&section=header&text=Jaskaran%20Joshi&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cyber-Stack%20Engineer%20%7C%20Security%20Architect&descAlignY=55&descAlign=50&descSize=20&animation=twinkling"/>
+<!-- Premium Terminal Header SVG -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=250&section=header&text=ACCESS%20GRANTED&fontSize=40&fontColor=00f3ff&fontAlignY=30&desc=Security-First%20Full%20Stack%20Architect&descAlignY=55&descAlign=50&descSize=20&animation=twinkling&stroke=8b5cf6&strokeWidth=2" width="100%"/>
 
 <br/>
 
-<!-- Terminal Identity -->
-<div align="left" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px; font-family: 'Courier New', Courier, monospace; color: #c9d1d9;">
-  <p style="margin: 0; color: #58a6ff;">$ whoami</p>
-  <p style="margin: 0; padding-left: 20px;">Jaskaran Joshi — <span style="color: #00f3ff;">Python Dev</span>, <span style="color: #8b5cf6;">Security Analyst</span> & <span style="color: #10b981;">Full Stack Engineer</span></p>
-  <p style="margin: 0; color: #58a6ff;">$ stack</p>
-  <p style="margin: 0; padding-left: 20px;">Python · Django · React · Node.js · PostgreSQL · MongoDB</p>
-  <p style="margin: 0; color: #58a6ff;">$ status</p>
-  <p style="margin: 0; padding-left: 20px;">Building secure systems by day. Breaking them to find flaws by night.</p>
-</div>
+<!-- Digital Identity Stats (Minimalist SVG) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/SECURITY-VAPT-00f3ff?style=for-the-badge&logo=shield&logoColor=black" />
+  <img src="https://img.shields.io/badge/FULL%20STACK-PYTHON_/_NODE-8b5cf6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CERTIFIED-CEH_MASTER-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</p>
 
 <br/>
 
-<!-- Primary Centered Tagline -->
-<h3>"Security baked in, not bolted on." 🛡️</h3>
+<!-- Terminal Logic Display -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00f3ff&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=$%20whoami;Jaskaran%20Joshi;$%20mission;Building%20unbreakable%20systems.;$%20expertise;Cyber-Security%20%2B%20Full-Stack;" alt="Terminal Typing" />
 
 <br/>
 
-<!-- Digital Badges -->
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaskaran-joshi)
-[![Portfolio](https://img.shields.io/badge/Explore-Portfolio-00f3ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://jaskaranjoshi.online)
-[![Resume](https://img.shields.io/badge/Download-Resume-10b981?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1czLA0lU5B4NmqKhhZJKQo9VMimllub5h/view)
-[![Email](https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jashkaranjoshi@gmail.com)
+<!-- Connect Links (Premium Glassy Buttons) -->
+<p align="center">
+  <a href="https://linkedin.com/in/jaskaran-joshi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://jaskaranjoshi.online" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-00f3ff?style=flat-square&logo=googlechrome&logoColor=black" height="30"/>
+  </a>
+  &nbsp;
+  <a href="mailto:jashkaranjoshi@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="30"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-### 🛡️ Core Certifications
+### 🛡️ Certified Security Expertise
+<p align="center">
+  <img src="https://img.shields.io/badge/CEH_Master-EC--Council-red?style=flat-square&logo=hackthebox&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CEH_Practical-EC--Council-crimson?style=flat-square&logo=kali&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CND-Network--Defender-blue?style=flat-square&logo=shield&logoColor=white" />
+</p>
+
+---
+
+### 🛠️ Premium Tech Stack (SVG Grid)
+
 <div align="center">
-  <img src="https://img.shields.io/badge/CEH%20Master-EC--Council-red?style=flat-square&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/CEH%20Practical-EC--Council-darkred?style=flat-square&logo=kali&logoColor=white" />
-  <img src="https://img.shields.io/badge/CND-Network%20Defender-blue?style=flat-square&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/VAPT-Specialist-black?style=flat-square&logo=wireshark&logoColor=cyan" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,nodejs,express,tailwind,postgresql,mongodb,linux,git,docker,postman&perline=6&theme=dark" width="100%"/>
 </div>
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🚀 Strategic Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Development</h4>
-      <img src="https://skillicons.dev/icons?i=python,django,js,react,nodejs,express,tailwind,postgresql,mongodb&theme=dark" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛡️ Security Tooling</h4>
-      <img src="https://skillicons.dev/icons?i=linux,git,docker,postman,vscode&theme=dark" />
-      <br/>
-      <code>Burp Suite</code> · <code>Nmap</code> · <code>Metasploit</code> · <code>OWASP ZAP</code> · <code>Wireshark</code>
-    </td>
-  </tr>
-</table>
+<div align="left">
 
----
+#### 🤖 [TitanAx Labs](https://github.com/Jashkaran-joshi/TitanAx-Labs) — AI-Powered Secure Code Gen
+> **Security Core:** Integrates an LLM pipeline with a dynamic sanitization layer to prevent `eval()` injection and secret exposure.
+> <br/>
+> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Cyber-Security-00f3ff?style=flat-square&logo=shield&logoColor=black" />
 
-### 🚀 Strategic Projects (Security DNA)
+#### 🐾 [AdoptNest](https://github.com/Jashkaran-joshi/AdoptNest) — Secure Pet Marketplace
+> **Security Core:** Layered MVC architecture with short-lived JWTs and refresh token rotation in `httpOnly` cookies.
+> <br/>
+> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/RBAC-Access%20Control-8b5cf6?style=flat-square&logo=lock&logoColor=white" />
 
-#### [AdoptNest — Secure Pet Adoption Platform](https://github.com/Jashkaran-joshi/AdoptNest)
-> **Identity:** Full-stack pet adoption marketplace with JWT-based authentication and role-based access control (RBAC). 
-> - **Security Highlight:** Hardened against XSS & Injection with DOMPurify and parameterized queries. 
-> - **Tech:** React, Node.js, Express, MongoDB.
+#### ✂️ [SnipSnap](https://github.com/Jashkaran-joshi/SnipSnap) — Encrypted Snippet Manager
+> **Security Core:** Field-level AES-256 encryption for snippet content. Search subsystem uses decoupled text indexing.
+> <br/>
+> <img src="https://img.shields.io/badge/MERN-Stack-red?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/AES--256-Encryption-10b981?style=flat-square&logo=keycloak&logoColor=white" />
 
-#### [SnipSnap — Encrypted Code Manager](https://github.com/Jashkaran-joshi/SnipSnap)
-> **Identity:** Developer productivity tool for organizing code snippets with military-grade encryption.
-> - **Security Highlight:** Field-level AES-256 encryption. Keys never stored with data.
-> - **Tech:** React, Node.js, Mongoose, AES-256.
-
-#### [TitanAx Labs — AI-Powered Code Generator](https://github.com/Jashkaran-joshi/TitanAx-Labs)
-> **Identity:** AI tool that integrates LLM APIs with an output validation layer for security anti-patterns.
-> - **Security Highlight:** Scans for hardcoded secrets and `eval()` usage before rendering.
-> - **Tech:** React, Node.js, AI Integration, Security Linting Engine.
+</div>
 
 ---
 
-### 📊 GitHub Pulse
+### 📊 Security Insights (Premium SVG Stats)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jashkaran-joshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f3ff&icon_color=8b5cf6&text_color=C9D1D9&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jashkaran-joshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f3ff&text_color=C9D1D9&langs_count=10" width="45%" />
@@ -89,14 +89,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jashkaran-joshi&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00f3ff&line=8b5cf6&point=C9D1D9&area=true" width="98%" />
-</div>
-
----
-
-<div align="center">
-  <i>"Security is not a product, but a process." — Bruce Schneier</i>
-  <br/>
-  <br/>
+  <!-- Footer Motif -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,18,30&height=100&section=footer&animation=twinkling" width="100%"/>
+  <br/>
+  <i>"In code we trust, in security we verify." 🛡️</i>
 </div>
