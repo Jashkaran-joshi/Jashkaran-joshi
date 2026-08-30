@@ -1,0 +1,18 @@
+<svg width="960" height="200" viewBox="0 0 960 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="shadow_about" x="-5%" y="-5%" width="110%" height="110%">
+            <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.3"/>
+        </filter>
+    </defs>
+    <rect x="2" y="2" width="956" height="196" rx="12" fill="#161B22" filter="url(#shadow_about)" />
+    <rect x="2" y="2" width="956" height="196" rx="12" stroke="#30363D" stroke-width="1" />
+    
+    <text x="30" y="45" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="22" font-weight="700">⚡ About</text>
+    
+    <text x="30" y="85" fill="#C9D1D9" font-family="system-ui, sans-serif" font-size="16" font-weight="400">I build applications that are <tspan font-weight="600" fill="#58A6FF">functional by design</tspan> and <tspan font-weight="600" fill="#58A6FF">secure by default</tspan>.</text>
+    
+    <text x="30" y="115" fill="#C9D1D9" font-family="system-ui, sans-serif" font-size="16" font-weight="400">My work sits at the intersection of full-stack engineering and offensive security — I think beyond</text>
+    <text x="30" y="140" fill="#C9D1D9" font-family="system-ui, sans-serif" font-size="16" font-weight="400">implementation to consider how systems can fail, where they can be attacked, and how to reduce risk.</text>
+    
+    <text x="30" y="175" fill="#8B949E" font-family="system-ui, sans-serif" font-size="15" font-weight="500">Focusing on <tspan fill="#E6EDF3">DevSecOps</tspan>, <tspan fill="#E6EDF3">application security</tspan>, and <tspan fill="#E6EDF3">data-driven automation</tspan>.</text>
+    </svg>
