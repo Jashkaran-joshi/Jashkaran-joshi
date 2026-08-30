@@ -103,17 +103,6 @@ High-security productivity tool for developer code repository management.
 
 ---
 
-### 🎓 EDUCATION
-
-| DEGREE | INSTITUTION | PERIOD |
-| :--- | :--- | :--- |
-| **MCA** — Master of Computer Applications, Cyber Security | JECRC University | July 2024 – July 2026 |
-| **BCA** — Bachelor of Computer Applications, Computer Science | Govt. Engineering College, Bikaner | July 2021 – April 2024 |
-| **Class XII** — Commerce (CBSE) | RSV Hr. Sec. School, Bikaner | 2020 – 2021 |
-| **Class X** — General (CBSE) | RSV Hr. Sec. School, Bikaner | 2018 – 2019 |
-
----
-
 <div align="center">
   <br/>
 
