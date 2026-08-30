@@ -30,14 +30,16 @@
 
 </div>
 
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- ABOUT -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <table width="100%">
   <tr>
-    <td width="100%">
-      
+    <td>
+
 ## &nbsp;⚡&nbsp; About
 
 I build applications that are **functional by design** and **secure by default**.
@@ -55,6 +57,8 @@ Focus  →  Secure, data-driven, production-grade applications
   </td>
   </tr>
 </table>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- TECH STACK -->
@@ -111,6 +115,8 @@ Focus  →  Secure, data-driven, production-grade applications
   </tr>
 </table>
 
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- FEATURED PROJECTS -->
 <!-- ═══════════════════════════════════════════════════════ -->
@@ -158,7 +164,7 @@ Focus  →  Secure, data-driven, production-grade applications
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3> 🛡️ Security Philosophy</h3>
+      <h3>🛡️ Security Philosophy</h3>
       <br/>
       <blockquote>
         <b>Security should be part of the architecture, not an afterthought.</b>
@@ -168,6 +174,8 @@ Focus  →  Secure, data-driven, production-grade applications
     </td>
   </tr>
 </table>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- GITHUB ACTIVITY -->
@@ -219,9 +227,9 @@ Focus  →  Secure, data-driven, production-grade applications
 
 <table width="100%">
   <tr>
-    <th align="left" width="50%">Certification</th>
-    <th align="left" width="25%">Issuer</th>
-    <th align="left" width="25%">Credential</th>
+    <th align="left">Certification</th>
+    <th align="left">Issuer</th>
+    <th align="left">Credential</th>
   </tr>
   <tr>
     <td><b>CEH Master</b> — Certified Ethical Hacker</td>
@@ -260,6 +268,8 @@ Focus  →  Secure, data-driven, production-grade applications
   </tr>
 </table>
 
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- CURRENTLY EXPLORING -->
 <!-- ═══════════════════════════════════════════════════════ -->
@@ -268,22 +278,24 @@ Focus  →  Secure, data-driven, production-grade applications
 
 <table width="100%">
   <tr>
-    <td width="5%" align="center">🔧</td>
-    <td width="95%">DevSecOps pipelines & CI/CD security gates</td>
+    <td>🔧</td>
+    <td>DevSecOps pipelines & CI/CD security gates</td>
   </tr>
   <tr>
-    <td width="5%" align="center">🛡️</td>
-    <td width="95%">OWASP Top 10 — deep dives and mitigations</td>
+    <td>🛡️</td>
+    <td>OWASP Top 10 — deep dives and mitigations</td>
   </tr>
   <tr>
-    <td width="5%" align="center">📊</td>
-    <td width="95%">Data analytics & business intelligence automation</td>
+    <td>📊</td>
+    <td>Data analytics & business intelligence automation</td>
   </tr>
   <tr>
-    <td width="5%" align="center">🚩</td>
-    <td width="95%">CTF challenges on TryHackMe</td>
+    <td>🚩</td>
+    <td>CTF challenges on TryHackMe</td>
   </tr>
 </table>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- FOOTER -->
