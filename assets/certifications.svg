@@ -1,6 +1,6 @@
-<svg width="960" height="200" viewBox="0 0 960 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect x="2" y="2" width="956" height="196" rx="12" fill="#161B22" />
-    <rect x="2" y="2" width="956" height="196" rx="12" stroke="#30363D" stroke-width="1" />
+<svg width="960" height="360" viewBox="0 0 960 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="2" y="2" width="956" height="356" rx="12" fill="#161B22" />
+    <rect x="2" y="2" width="956" height="356" rx="12" stroke="#30363D" stroke-width="1" />
     <text x="30" y="45" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="22" font-weight="700">🏆 Certifications</text>
     <text x="30" y="85" fill="#8B949E" font-family="system-ui, sans-serif" font-size="14" font-weight="600">CERTIFICATION</text>
     <text x="500" y="85" fill="#8B949E" font-family="system-ui, sans-serif" font-size="14" font-weight="600">ISSUER</text>
@@ -9,13 +9,29 @@
     
         <text x="30" y="130" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="16" font-weight="500">CEH Master — Certified Ethical Hacker</text>
         <text x="500" y="130" fill="#C9D1D9" font-family="system-ui, sans-serif" font-size="15" font-weight="400">EC-Council</text>
-        <text x="800" y="130" fill="#58A6FF" font-family="system-ui, sans-serif" font-size="15" font-weight="500">Credly</text>
+        <text x="800" y="130" fill="#58A6FF" font-family="system-ui, sans-serif" font-size="15" font-weight="500">ECC4870126593</text>
         
-        <text x="30" y="165" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="16" font-weight="500">CND — Certified Network Defender</text>
-        <text x="500" y="165" fill="#C9D1D9" font-family="system-ui, sans-serif" font-size="15" font-weight="400">EC-Council</text>
-        <text x="800" y="165" fill="#58A6FF" font-family="system-ui, sans-serif" font-size="15" font-weight="500">Credly</text>
+        <text x="30" y="163" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="16" font-weight="500">CEH Practical — Certified Ethical Hacker</text>
+        <text x="500" y="163" fill="#C9D1D9" font-family="system-ui, sans-serif" font-size="15" font-weight="400">EC-Council</text>
+        <text x="800" y="163" fill="#58A6FF" font-family="system-ui, sans-serif" font-size="15" font-weight="500">ECC7895124630</text>
         
-        <text x="30" y="200" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="16" font-weight="500">Cybersecurity &amp; Threat Intelligence</text>
-        <text x="500" y="200" fill="#C9D1D9" font-family="system-ui, sans-serif" font-size="15" font-weight="400">Deloitte</text>
-        <text x="800" y="200" fill="#58A6FF" font-family="system-ui, sans-serif" font-size="15" font-weight="500">—</text>
+        <text x="30" y="196" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="16" font-weight="500">CND — Certified Network Defender</text>
+        <text x="500" y="196" fill="#C9D1D9" font-family="system-ui, sans-serif" font-size="15" font-weight="400">EC-Council</text>
+        <text x="800" y="196" fill="#58A6FF" font-family="system-ui, sans-serif" font-size="15" font-weight="500">ECC7309568214</text>
+        
+        <text x="30" y="229" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="16" font-weight="500">Career Essentials in Cybersecurity</text>
+        <text x="500" y="229" fill="#C9D1D9" font-family="system-ui, sans-serif" font-size="15" font-weight="400">Microsoft</text>
+        <text x="800" y="229" fill="#58A6FF" font-family="system-ui, sans-serif" font-size="15" font-weight="500">bd494211...</text>
+        
+        <text x="30" y="262" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="16" font-weight="500">Cybersecurity Job Simulation</text>
+        <text x="500" y="262" fill="#C9D1D9" font-family="system-ui, sans-serif" font-size="15" font-weight="400">Mastercard</text>
+        <text x="800" y="262" fill="#58A6FF" font-family="system-ui, sans-serif" font-size="15" font-weight="500">—</text>
+        
+        <text x="30" y="295" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="16" font-weight="500">Cybersecurity Job Simulation</text>
+        <text x="500" y="295" fill="#C9D1D9" font-family="system-ui, sans-serif" font-size="15" font-weight="400">JPMorgan Chase</text>
+        <text x="800" y="295" fill="#58A6FF" font-family="system-ui, sans-serif" font-size="15" font-weight="500">—</text>
+        
+        <text x="30" y="328" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="16" font-weight="500">Technology Job Simulation</text>
+        <text x="500" y="328" fill="#C9D1D9" font-family="system-ui, sans-serif" font-size="15" font-weight="400">Deloitte</text>
+        <text x="800" y="328" fill="#58A6FF" font-family="system-ui, sans-serif" font-size="15" font-weight="500">—</text>
         </svg>

@@ -83,7 +83,7 @@ def create_tech_stack():
 
 def create_certs():
     width = 960
-    height = 200
+    height = 360
     svg = f'<svg width="{width}" height="{height}" viewBox="0 0 {width} {height}" fill="none" xmlns="http://www.w3.org/2000/svg">'
     svg += get_base_svg(width, height, "shadow_certs")
     
@@ -98,9 +98,13 @@ def create_certs():
     '''
     
     rows = [
-        ("CEH Master — Certified Ethical Hacker", "EC-Council", "Credly"),
-        ("CND — Certified Network Defender", "EC-Council", "Credly"),
-        ("Cybersecurity &amp; Threat Intelligence", "Deloitte", "—")
+        ("CEH Master — Certified Ethical Hacker", "EC-Council", "ECC4870126593"),
+        ("CEH Practical — Certified Ethical Hacker", "EC-Council", "ECC7895124630"),
+        ("CND — Certified Network Defender", "EC-Council", "ECC7309568214"),
+        ("Career Essentials in Cybersecurity", "Microsoft", "bd494211..."),
+        ("Cybersecurity Job Simulation", "Mastercard", "—"),
+        ("Cybersecurity Job Simulation", "JPMorgan Chase", "—"),
+        ("Technology Job Simulation", "Deloitte", "—")
     ]
     
     y = 130
@@ -110,7 +114,7 @@ def create_certs():
         <text x="500" y="{y}" fill="#C9D1D9" font-family="system-ui, sans-serif" font-size="15" font-weight="400">{issuer}</text>
         <text x="800" y="{y}" fill="#58A6FF" font-family="system-ui, sans-serif" font-size="15" font-weight="500">{cred}</text>
         '''
-        y += 35
+        y += 33
         
     svg += '</svg>'
     with open('assets/certifications.svg', 'w', encoding='utf-8') as f:
