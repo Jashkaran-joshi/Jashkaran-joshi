@@ -30,8 +30,6 @@
 
 </div>
 
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- ABOUT -->
 <!-- ═══════════════════════════════════════════════════════ -->
@@ -58,8 +56,6 @@ Focus  →  Secure, data-driven, production-grade applications
   </td>
   </tr>
 </table>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- TECH STACK -->
@@ -115,8 +111,6 @@ Focus  →  Secure, data-driven, production-grade applications
     </td>
   </tr>
 </table>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- FEATURED PROJECTS -->
@@ -179,8 +173,6 @@ Focus  →  Secure, data-driven, production-grade applications
     </td>
   </tr>
 </table>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- GITHUB ACTIVITY -->
@@ -273,8 +265,6 @@ Focus  →  Secure, data-driven, production-grade applications
   </tr>
 </table>
 
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- CURRENTLY EXPLORING -->
 <!-- ═══════════════════════════════════════════════════════ -->
@@ -299,8 +289,6 @@ Focus  →  Secure, data-driven, production-grade applications
     <td width="95%">CTF challenges on TryHackMe</td>
   </tr>
 </table>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- FOOTER -->
