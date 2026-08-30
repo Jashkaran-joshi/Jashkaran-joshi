@@ -70,34 +70,34 @@ Focus  →  Secure, data-driven, production-grade applications
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="36" height="36" alt="React" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="36" height="36" alt="Next.js" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="36" height="36" alt="JavaScript" />
+      <img src="assets/skillicon_react.svg" width="36" height="36" alt="React" />&nbsp;&nbsp;
+      <img src="assets/skillicon_nextjs.svg" width="36" height="36" alt="Next.js" />&nbsp;&nbsp;
+      <img src="assets/skillicon_js.svg" width="36" height="36" alt="JavaScript" />
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="36" height="36" alt="Tailwind" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="36" height="36" alt="HTML5" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="36" height="36" alt="CSS3" />
+      <img src="assets/skillicon_tailwind.svg" width="36" height="36" alt="Tailwind" />&nbsp;&nbsp;
+      <img src="assets/skillicon_html.svg" width="36" height="36" alt="HTML5" />&nbsp;&nbsp;
+      <img src="assets/skillicon_css.svg" width="36" height="36" alt="CSS3" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="36" height="36" alt="Node.js" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="36" height="36" alt="Express" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" height="36" alt="Python" />
+      <img src="assets/skillicon_nodejs.svg" width="36" height="36" alt="Node.js" />&nbsp;&nbsp;
+      <img src="assets/skillicon_express.svg" width="36" height="36" alt="Express" />&nbsp;&nbsp;
+      <img src="assets/skillicon_python.svg" width="36" height="36" alt="Python" />
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=django&theme=dark" width="36" height="36" alt="Django" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="36" height="36" alt="Flask" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="36" height="36" alt="C++" />
+      <img src="assets/skillicon_django.svg" width="36" height="36" alt="Django" />&nbsp;&nbsp;
+      <img src="assets/skillicon_flask.svg" width="36" height="36" alt="Flask" />&nbsp;&nbsp;
+      <img src="assets/skillicon_cpp.svg" width="36" height="36" alt="C++" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="36" height="36" alt="MongoDB" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="36" height="36" alt="PostgreSQL" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="36" height="36" alt="Docker" />
+      <img src="assets/skillicon_mongodb.svg" width="36" height="36" alt="MongoDB" />&nbsp;&nbsp;
+      <img src="assets/skillicon_postgres.svg" width="36" height="36" alt="PostgreSQL" />&nbsp;&nbsp;
+      <img src="assets/skillicon_docker.svg" width="36" height="36" alt="Docker" />
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="36" height="36" alt="Linux" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="Git" />&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="36" height="36" alt="Postman" />
+      <img src="assets/skillicon_linux.svg" width="36" height="36" alt="Linux" />&nbsp;&nbsp;
+      <img src="assets/skillicon_git.svg" width="36" height="36" alt="Git" />&nbsp;&nbsp;
+      <img src="assets/skillicon_postman.svg" width="36" height="36" alt="Postman" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=kali&theme=dark" width="36" height="36" alt="Kali Linux" />&nbsp;&nbsp;
+      <img src="assets/skillicon_kali.svg" width="36" height="36" alt="Kali Linux" />&nbsp;&nbsp;
       <img src="assets/burpsuite.svg" width="36" height="36" alt="Burp Suite" />&nbsp;&nbsp;
       <img src="assets/metasploit.svg" width="36" height="36" alt="Metasploit" />
       <br/><br/>
@@ -124,9 +124,9 @@ Focus  →  Secure, data-driven, production-grade applications
       <p><b>AI-Driven Secure Code Generation</b></p>
       <p>An AI-powered platform that generates code with a security linting layer — catching <b>secret exposure</b> and <b>injection patterns</b> before they ship.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=5FA04E" />
-        <img src="https://img.shields.io/badge/AI-0D1117?style=flat-square&logo=openai&logoColor=FFFFFF" />
+        <img src="assets/shield_React_0D1117.svg" />
+        <img src="assets/shield_Node.js_0D1117.svg" />
+        <img src="assets/shield_AI_0D1117.svg" />
       </p>
     </td>
     <td width="500" valign="top">
@@ -136,9 +136,9 @@ Focus  →  Secure, data-driven, production-grade applications
       <p><b>Secure Pet Adoption Marketplace</b></p>
       <p>A full-stack adoption platform with identity management built around <b>JWT refresh-token rotation</b> and <b>role-based access control</b>.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" />
+        <img src="assets/shield_React_0D1117.svg" />
+        <img src="assets/shield_Express_0D1117.svg" />
+        <img src="assets/shield_MongoDB_0D1117.svg" />
       </p>
     </td>
   </tr>
@@ -150,9 +150,9 @@ Focus  →  Secure, data-driven, production-grade applications
       <p><b>Encrypted Code Snippet Manager</b></p>
       <p>A developer tool that protects stored snippets with <b>field-level AES-256 encryption</b> — combining productivity with security-first design.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=5FA04E" />
-        <img src="https://img.shields.io/badge/AES--256-0D1117?style=flat-square&logo=letsencrypt&logoColor=FFD700" />
+        <img src="assets/shield_React_0D1117.svg" />
+        <img src="assets/shield_Node.js_0D1117.svg" />
+        <img src="assets/shield_AES__256_0D1117.svg" />
       </p>
     </td>
     <td width="500" valign="top">
@@ -269,7 +269,7 @@ Focus  →  Secure, data-driven, production-grade applications
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1&section=footer" width="100%"/>
+<img src="assets/capsule_footer.svg" width="100%"/>
 
 <br/>
 
