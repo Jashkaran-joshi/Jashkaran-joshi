@@ -20,7 +20,7 @@
         <text x="500" y="165" fill="#C9D1D9" font-family="system-ui, sans-serif" font-size="15" font-weight="400">EC-Council</text>
         <text x="800" y="165" fill="#58A6FF" font-family="system-ui, sans-serif" font-size="15" font-weight="500">Credly</text>
         
-        <text x="30" y="200" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="16" font-weight="500">Cybersecurity & Threat Intelligence</text>
+        <text x="30" y="200" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="16" font-weight="500">Cybersecurity &amp; Threat Intelligence</text>
         <text x="500" y="200" fill="#C9D1D9" font-family="system-ui, sans-serif" font-size="15" font-weight="400">Deloitte</text>
         <text x="800" y="200" fill="#58A6FF" font-family="system-ui, sans-serif" font-size="15" font-weight="500">—</text>
         </svg>

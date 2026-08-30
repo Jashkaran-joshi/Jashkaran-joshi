@@ -58,7 +58,7 @@ def create_tech_stack():
     columns = [
         {"title": "Frontend", "x": 30, "icons": [("react", "#61DAFB"), ("nextdotjs", "#FFFFFF"), ("javascript", "#F7DF1E"), ("tailwindcss", "#06B6D4"), ("html5", "#E34F26"), ("css3", "#1572B6")]},
         {"title": "Backend", "x": 270, "icons": [("nodedotjs", "#339933"), ("express", "#FFFFFF"), ("python", "#3776AB"), ("django", "#092E20"), ("flask", "#FFFFFF"), ("cplusplus", "#00599C")]},
-        {"title": "Data & Infra", "x": 510, "icons": [("mongodb", "#47A248"), ("postgresql", "#4169E1"), ("docker", "#2496ED"), ("linux", "#FCC624"), ("git", "#F05032"), ("postman", "#FF6C37")]},
+        {"title": "Data &amp; Infra", "x": 510, "icons": [("mongodb", "#47A248"), ("postgresql", "#4169E1"), ("docker", "#2496ED"), ("linux", "#FCC624"), ("git", "#F05032"), ("postman", "#FF6C37")]},
         {"title": "Security", "x": 750, "icons": [("kalilinux", "#557C94"), ("wireshark", "#1679A7"), ("metasploit", "#2596CD")]}
     ]
     
@@ -105,7 +105,7 @@ def create_certs():
     rows = [
         ("CEH Master — Certified Ethical Hacker", "EC-Council", "Credly"),
         ("CND — Certified Network Defender", "EC-Council", "Credly"),
-        ("Cybersecurity & Threat Intelligence", "Deloitte", "—")
+        ("Cybersecurity &amp; Threat Intelligence", "Deloitte", "—")
     ]
     
     y = 130
@@ -130,9 +130,9 @@ def create_exploring():
     svg += '<text x="30" y="45" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="22" font-weight="700">🔭 Currently Exploring</text>'
     
     items = [
-        ("🔧", "DevSecOps pipelines & CI/CD security gates"),
+        ("🔧", "DevSecOps pipelines &amp; CI/CD security gates"),
         ("🛡️", "OWASP Top 10 — deep dives and mitigations"),
-        ("📊", "Data analytics & business intelligence automation"),
+        ("📊", "Data analytics &amp; business intelligence automation"),
         ("🚩", "CTF challenges on TryHackMe")
     ]
     
