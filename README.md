@@ -46,20 +46,7 @@ A developer tool that protects stored snippets with **field-level AES-256 encryp
 
 Every project I build has security baked in — from authentication flows to encrypted data at rest. [See my full portfolio](https://jaskaranjoshi.online)
 
----
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jashkaran-joshi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jashkaran-joshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jashkaran-joshi&theme=tokyonight" width="45%" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jashkaran-joshi&theme=tokyonight" width="45%" alt="Most Commits" />
-</p>
-
----
 
 ## 🏆 Certifications
 
