@@ -38,7 +38,7 @@
 
 <table width="100%">
   <tr>
-    <td>
+    <td width="1000">
 
 ## &nbsp;⚡&nbsp; About
 
@@ -68,10 +68,10 @@ Focus  →  Secure, data-driven, production-grade applications
 
 <table width="100%">
   <tr>
-    <td align="center" width="25%"><b>Frontend</b></td>
-    <td align="center" width="25%"><b>Backend & Languages</b></td>
-    <td align="center" width="25%"><b>Data & Infrastructure</b></td>
-    <td align="center" width="25%"><b>Security</b></td>
+    <td align="center" width="250"><b>Frontend</b></td>
+    <td align="center" width="250"><b>Backend & Languages</b></td>
+    <td align="center" width="250"><b>Data & Infrastructure</b></td>
+    <td align="center" width="250"><b>Security</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -125,7 +125,7 @@ Focus  →  Secure, data-driven, production-grade applications
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="500" valign="top">
       <h3>
         <a href="https://github.com/Jashkaran-joshi/TitanAx-Labs">🤖 TitanAx Labs</a>
       </h3>
@@ -137,7 +137,7 @@ Focus  →  Secure, data-driven, production-grade applications
         <img src="https://img.shields.io/badge/AI-0D1117?style=flat-square&logo=openai&logoColor=FFFFFF" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="500" valign="top">
       <h3>
         <a href="https://github.com/Jashkaran-joshi/AdoptNest">🐾 AdoptNest</a>
       </h3>
@@ -151,7 +151,7 @@ Focus  →  Secure, data-driven, production-grade applications
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="500" valign="top">
       <h3>
         <a href="https://github.com/Jashkaran-joshi/SnipSnap">🔐 SnipSnap</a>
       </h3>
@@ -163,7 +163,7 @@ Focus  →  Secure, data-driven, production-grade applications
         <img src="https://img.shields.io/badge/AES--256-0D1117?style=flat-square&logo=letsencrypt&logoColor=FFD700" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="500" valign="top">
       <h3>🛡️ Security Philosophy</h3>
       <br/>
       <blockquote>
@@ -227,9 +227,9 @@ Focus  →  Secure, data-driven, production-grade applications
 
 <table width="100%">
   <tr>
-    <th align="left" width="50%">Certification</th>
-    <th align="left" width="30%">Issuer</th>
-    <th align="left" width="20%">Credential</th>
+    <th align="left" width="500">Certification</th>
+    <th align="left" width="300">Issuer</th>
+    <th align="left" width="200">Credential</th>
   </tr>
   <tr>
     <td><b>CEH Master</b> — Certified Ethical Hacker</td>
@@ -278,8 +278,8 @@ Focus  →  Secure, data-driven, production-grade applications
 
 <table width="100%">
   <tr>
-    <td width="5%">🔧</td>
-    <td width="95%">DevSecOps pipelines & CI/CD security gates</td>
+    <td width="50">🔧</td>
+    <td width="950">DevSecOps pipelines & CI/CD security gates</td>
   </tr>
   <tr>
     <td>🛡️</td>
