@@ -181,24 +181,14 @@ Focus  →  Secure, data-driven, production-grade applications
 ## &nbsp;📊&nbsp; GitHub Activity
 
 <div align="center">
-  <img src="assets/streak.svg" width="70%" alt="Contribution Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/profile-details.svg" width="85%" alt="Profile Activity" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/repos-per-language.svg" width="40%" alt="Languages by Repo" />
+  <img src="assets/streak.svg" width="60%" alt="Contribution Streak" />
+  <br/><br/>
+  <img src="assets/profile-details.svg" width="75%" alt="Profile Activity" />
+  <br/><br/>
+  <img src="assets/repos-per-language.svg" width="37%" alt="Languages by Repo" />
   &nbsp;&nbsp;
-  <img src="assets/most-commit-language.svg" width="40%" alt="Languages by Commit" />
+  <img src="assets/most-commit-language.svg" width="37%" alt="Languages by Commit" />
 </div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- CERTIFICATIONS -->
