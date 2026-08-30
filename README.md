@@ -46,7 +46,7 @@ A developer tool that protects stored snippets with **field-level AES-256 encryp
 
 Every project I build has security baked in — from authentication flows to encrypted data at rest. [See my full portfolio](https://jaskaranjoshi.online)
 
-
+---
 
 ## 🏆 Certifications
 
