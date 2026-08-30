@@ -36,9 +36,8 @@
 
 <table width="100%">
   <tr>
-    <td width="100%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="900" />
-
+    <td width="100%"><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="900" />
+      
 ## &nbsp;⚡&nbsp; About
 
 I build applications that are **functional by design** and **secure by default**.
@@ -65,10 +64,10 @@ Focus  →  Secure, data-driven, production-grade applications
 
 <table width="100%">
   <tr>
-    <td align="center" width="25%"><b>Frontend</b><br/><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="225" /></td>
-    <td align="center" width="25%"><b>Backend & Languages</b><br/><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="225" /></td>
-    <td align="center" width="25%"><b>Data & Infrastructure</b><br/><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="225" /></td>
-    <td align="center" width="25%"><b>Security</b><br/><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="225" /></td>
+    <td align="center" width="25%"><b>Frontend</b><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="225" /></td>
+    <td align="center" width="25%"><b>Backend & Languages</b><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="225" /></td>
+    <td align="center" width="25%"><b>Data & Infrastructure</b><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="225" /></td>
+    <td align="center" width="25%"><b>Security</b><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="225" /></td>
   </tr>
   <tr>
     <td align="center">
@@ -121,8 +120,7 @@ Focus  →  Secure, data-driven, production-grade applications
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="450" />
-      <h3>
+      <h3><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="450" />
         <a href="https://github.com/Jashkaran-joshi/TitanAx-Labs">🤖 TitanAx Labs</a>
       </h3>
       <p><b>AI-Driven Secure Code Generation</b></p>
@@ -134,8 +132,7 @@ Focus  →  Secure, data-driven, production-grade applications
       </p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="450" />
-      <h3>
+      <h3><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="450" />
         <a href="https://github.com/Jashkaran-joshi/AdoptNest">🐾 AdoptNest</a>
       </h3>
       <p><b>Secure Pet Adoption Marketplace</b></p>
@@ -149,8 +146,7 @@ Focus  →  Secure, data-driven, production-grade applications
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="450" />
-      <h3>
+      <h3><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="450" />
         <a href="https://github.com/Jashkaran-joshi/SnipSnap">🔐 SnipSnap</a>
       </h3>
       <p><b>Encrypted Code Snippet Manager</b></p>
@@ -162,8 +158,7 @@ Focus  →  Secure, data-driven, production-grade applications
       </p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="450" />
-      <h3>🛡️ Security Philosophy</h3>
+      <h3><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="450" /> 🛡️ Security Philosophy</h3>
       <br/>
       <blockquote>
         <b>Security should be part of the architecture, not an afterthought.</b>
@@ -224,9 +219,9 @@ Focus  →  Secure, data-driven, production-grade applications
 
 <table width="100%">
   <tr>
-    <th align="left" width="50%">Certification<br/><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="450" /></th>
-    <th align="left" width="25%">Issuer<br/><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="225" /></th>
-    <th align="left" width="25%">Credential<br/><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="225" /></th>
+    <th align="left" width="50%">Certification<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="450" /></th>
+    <th align="left" width="25%">Issuer<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="225" /></th>
+    <th align="left" width="25%">Credential<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="225" /></th>
   </tr>
   <tr>
     <td><b>CEH Master</b> — Certified Ethical Hacker</td>
@@ -273,8 +268,8 @@ Focus  →  Secure, data-driven, production-grade applications
 
 <table width="100%">
   <tr>
-    <td width="5%" align="center">🔧<br/><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="45" /></td>
-    <td width="95%">DevSecOps pipelines & CI/CD security gates<br/><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="855" /></td>
+    <td width="5%" align="center">🔧<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="45" /></td>
+    <td width="95%">DevSecOps pipelines & CI/CD security gates<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=0" width="855" /></td>
   </tr>
   <tr>
     <td width="5%" align="center">🛡️</td>
