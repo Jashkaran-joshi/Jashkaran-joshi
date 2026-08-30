@@ -3,8 +3,8 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <div><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=35&lines=Jaskaran+Joshi" alt="Name" /></div>
-  <div><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=520&height=25&lines=Full-Stack+Developer+%C2%B7+CEH+Master+%C2%B7+Security+Enthusiast;MERN+%C2%B7+Next.js+%C2%B7+Django+%C2%B7+Python;Secure+by+design.+Scalable+by+default." alt="Tagline" /></div>
+  <div><img src="assets/name.svg" alt="Name" /></div>
+  <div><img src="assets/tagline.svg" alt="Tagline" /></div>
   <br/><br/>
 
 <a href="https://jaskaranjoshi.online">
