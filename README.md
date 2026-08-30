@@ -110,7 +110,7 @@ Focus  →  Secure, data-driven, production-grade applications
       <br/>
       <img src="https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=1679A7" alt="Wireshark" />
       <br/>
-      <img src="https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=0E83CD" alt="Nmap" />
+      <img src="https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=gnometerminal&logoColor=0E83CD" alt="Nmap" />
     </td>
   </tr>
 </table>
