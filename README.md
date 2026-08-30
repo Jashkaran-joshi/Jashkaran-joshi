@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Jaskaran%20Joshi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CEH%20Master%20%7C%20Data%20%26%20Automation%20Intern&descAlignY=58&descAlign=50&descSize=18&stroke=30363d&strokeWidth=1" width="100%"/>
+# 👋 Hi, I'm Jaskaran Joshi
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN+%7C+Next.js+%7C+Django);Certified+Ethical+Hacker+%E2%80%94+CEH+Master;Data+Analytics+%26+Automation+Enthusiast;Building+Secure+%26+Scalable+Applications" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaskaran-joshi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jaskaranjoshi.online)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jashkaranjoshi@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 
 <br/>
@@ -20,8 +21,6 @@
 I'm a **Full-Stack Developer**, **Certified Ethical Hacker (CEH Master)**, and **Data Analytics & Automation Intern** with hands-on experience across software development, cybersecurity, and data-driven automation. My goal is to create scalable applications that are not only functional and user-friendly but also **secure** and supported by **meaningful insights**.
 
 I hold three **EC-Council certifications** — CEH Master, CEH Practical, and Certified Network Defender (CND). I actively strengthen my skills through hands-on labs, penetration testing exercises, OWASP Top 10 challenges, and Capture The Flag (CTF) competitions on TryHackMe. I have also completed cybersecurity job simulations from **Mastercard**, **JPMorgan Chase**, and **Microsoft**.
-
-> 📍 Gurugram, Haryana, India
 
 ---
 
@@ -117,7 +116,9 @@ High-security productivity tool for developer code repository management.
 
 <div align="center">
   <br/>
-  <i>"Security is not a product, but a process."</i> — Bruce Schneier
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%"/>
+
+---
+
+*"Security is not a product, but a process."* — Bruce Schneier
+
 </div>
