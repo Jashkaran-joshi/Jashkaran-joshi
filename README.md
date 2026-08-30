@@ -36,7 +36,7 @@
 
 <table width="100%">
   <tr>
-    <td width="100%"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="900" height="1" />
+    <td width="100%">
       
 ## &nbsp;⚡&nbsp; About
 
@@ -64,10 +64,10 @@ Focus  →  Secure, data-driven, production-grade applications
 
 <table width="100%">
   <tr>
-    <td align="center" width="25%"><b>Frontend</b><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="225" height="1" /></td>
-    <td align="center" width="25%"><b>Backend & Languages</b><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="225" height="1" /></td>
-    <td align="center" width="25%"><b>Data & Infrastructure</b><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="225" height="1" /></td>
-    <td align="center" width="25%"><b>Security</b><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="225" height="1" /></td>
+    <td align="center" width="25%"><b>Frontend</b></td>
+    <td align="center" width="25%"><b>Backend & Languages</b></td>
+    <td align="center" width="25%"><b>Data & Infrastructure</b></td>
+    <td align="center" width="25%"><b>Security</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -120,7 +120,7 @@ Focus  →  Secure, data-driven, production-grade applications
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="450" height="1" />
+      <h3>
         <a href="https://github.com/Jashkaran-joshi/TitanAx-Labs">🤖 TitanAx Labs</a>
       </h3>
       <p><b>AI-Driven Secure Code Generation</b></p>
@@ -132,7 +132,7 @@ Focus  →  Secure, data-driven, production-grade applications
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="450" height="1" />
+      <h3>
         <a href="https://github.com/Jashkaran-joshi/AdoptNest">🐾 AdoptNest</a>
       </h3>
       <p><b>Secure Pet Adoption Marketplace</b></p>
@@ -146,7 +146,7 @@ Focus  →  Secure, data-driven, production-grade applications
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="450" height="1" />
+      <h3>
         <a href="https://github.com/Jashkaran-joshi/SnipSnap">🔐 SnipSnap</a>
       </h3>
       <p><b>Encrypted Code Snippet Manager</b></p>
@@ -158,7 +158,7 @@ Focus  →  Secure, data-driven, production-grade applications
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="450" height="1" /> 🛡️ Security Philosophy</h3>
+      <h3> 🛡️ Security Philosophy</h3>
       <br/>
       <blockquote>
         <b>Security should be part of the architecture, not an afterthought.</b>
@@ -219,9 +219,9 @@ Focus  →  Secure, data-driven, production-grade applications
 
 <table width="100%">
   <tr>
-    <th align="left" width="50%">Certification<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="450" height="1" /></th>
-    <th align="left" width="25%">Issuer<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="225" height="1" /></th>
-    <th align="left" width="25%">Credential<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="225" height="1" /></th>
+    <th align="left" width="50%">Certification</th>
+    <th align="left" width="25%">Issuer</th>
+    <th align="left" width="25%">Credential</th>
   </tr>
   <tr>
     <td><b>CEH Master</b> — Certified Ethical Hacker</td>
@@ -268,8 +268,8 @@ Focus  →  Secure, data-driven, production-grade applications
 
 <table width="100%">
   <tr>
-    <td width="5%" align="center">🔧<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="45" height="1" /></td>
-    <td width="95%">DevSecOps pipelines & CI/CD security gates<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="855" height="1" /></td>
+    <td width="5%" align="center">🔧</td>
+    <td width="95%">DevSecOps pipelines & CI/CD security gates</td>
   </tr>
   <tr>
     <td width="5%" align="center">🛡️</td>
