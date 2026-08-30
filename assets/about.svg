@@ -1,9 +1,7 @@
 <svg width="960" height="200" viewBox="0 0 960 200" fill="none" xmlns="http://www.w3.org/2000/svg">
     <rect x="2" y="2" width="956" height="196" rx="12" fill="#161B22" />
     <rect x="2" y="2" width="956" height="196" rx="12" stroke="#30363D" stroke-width="1" />
-    
-    <text x="30" y="45" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="22" font-weight="700">⚡ About</text>
-    
+    <text x="30" y="45" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="22" font-weight="700">⚡ About</text><line x1="30" y1="65" x2="930" y2="65" stroke="#30363D" stroke-width="1" />
     <text x="30" y="85" fill="#C9D1D9" font-family="system-ui, sans-serif" font-size="16" font-weight="400">I build applications that are <tspan font-weight="600" fill="#58A6FF">functional by design</tspan> and <tspan font-weight="600" fill="#58A6FF">secure by default</tspan>.</text>
     
     <text x="30" y="115" fill="#C9D1D9" font-family="system-ui, sans-serif" font-size="16" font-weight="400">My work sits at the intersection of full-stack engineering and offensive security — I think beyond</text>

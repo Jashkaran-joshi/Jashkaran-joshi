@@ -1,7 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- HERO -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <div align="center">
   <div><img src="assets/name.svg" alt="Name" /></div>
   <div><img src="assets/tagline.svg" alt="Tagline" /></div>
@@ -27,31 +23,17 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- ABOUT -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <div align="center">
   <img src="assets/about.svg" width="100%" alt="About" />
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- TECH STACK -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <div align="center">
   <img src="assets/tech_stack.svg" width="100%" alt="Tech Stack" />
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## &nbsp;🚀&nbsp; Featured Projects
 
 <div align="center">
   <a href="https://github.com/Jashkaran-joshi/TitanAx-Labs"><img src="assets/project_titanax.svg" width="48%" alt="TitanAx Labs" /></a>
@@ -65,17 +47,9 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- GITHUB ACTIVITY -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <div align="center">
   <img src="assets/github_activity.svg" width="100%" alt="GitHub Activity" />
 </div>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- CERTIFICATIONS -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
   <img src="assets/certifications.svg" width="100%" alt="Certifications" />
@@ -83,19 +57,11 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- CURRENTLY EXPLORING -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <div align="center">
   <img src="assets/exploring.svg" width="100%" alt="Currently Exploring" />
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 

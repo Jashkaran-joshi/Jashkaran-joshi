@@ -28,9 +28,10 @@ def create_about():
     svg += get_base_svg(width, height, "shadow_about")
     
     # Content
-    svg += '''
-    <text x="30" y="45" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="22" font-weight="700">⚡ About</text>
+    svg += '<text x="30" y="45" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="22" font-weight="700">⚡ About</text>'
+    svg += '<line x1="30" y1="65" x2="930" y2="65" stroke="#30363D" stroke-width="1" />'
     
+    svg += '''
     <text x="30" y="85" fill="#C9D1D9" font-family="system-ui, sans-serif" font-size="16" font-weight="400">I build applications that are <tspan font-weight="600" fill="#58A6FF">functional by design</tspan> and <tspan font-weight="600" fill="#58A6FF">secure by default</tspan>.</text>
     
     <text x="30" y="115" fill="#C9D1D9" font-family="system-ui, sans-serif" font-size="16" font-weight="400">My work sits at the intersection of full-stack engineering and offensive security — I think beyond</text>
@@ -49,6 +50,7 @@ def create_tech_stack():
     svg += get_base_svg(width, height, "shadow_tech")
     
     svg += '<text x="30" y="45" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="22" font-weight="700">🛠 Tech Stack</text>'
+    svg += '<line x1="30" y1="65" x2="930" y2="65" stroke="#30363D" stroke-width="1" />'
     
     columns = [
         {"title": "Frontend", "x": 30, "icons": [("react", "#61DAFB"), ("nextdotjs", "#FFFFFF"), ("javascript", "#F7DF1E"), ("tailwindcss", "#06B6D4"), ("html5", "#E34F26"), ("css3", "#1572B6")]},
@@ -88,6 +90,7 @@ def create_certs():
     svg += get_base_svg(width, height, "shadow_certs")
     
     svg += '<text x="30" y="45" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="22" font-weight="700">🏆 Certifications</text>'
+    svg += '<line x1="30" y1="65" x2="930" y2="65" stroke="#30363D" stroke-width="1" />'
     
     # Headers
     svg += '''
@@ -127,6 +130,7 @@ def create_exploring():
     svg += get_base_svg(width, height, "shadow_exploring")
     
     svg += '<text x="30" y="45" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="22" font-weight="700">🔭 Currently Exploring</text>'
+    svg += '<line x1="30" y1="65" x2="930" y2="65" stroke="#30363D" stroke-width="1" />'
     
     items = [
         ("🔧", "DevSecOps pipelines &amp; CI/CD security gates"),

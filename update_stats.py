@@ -118,6 +118,7 @@ try:
   <rect x="2" y="2" width="956" height="736" rx="12" stroke="#30363D" stroke-width="1" />
   
   <text x="30" y="45" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="22" font-weight="700">📊 GitHub Activity</text>
+  <line x1="30" y1="65" x2="930" y2="65" stroke="#30363D" stroke-width="1" />
 
   <g transform="translate(232, 70)">
 {streak}
