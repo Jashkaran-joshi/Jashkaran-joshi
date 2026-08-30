@@ -24,7 +24,7 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Jashkaran-joshi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img align="right" width="380" src="https://streak-stats.demolab.com?user=Jashkaran-joshi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 ### `$ whoami`
 
@@ -151,14 +151,10 @@ Postman    Google Apps Script
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jashkaran-joshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://streak-stats.demolab.com?user=Jashkaran-joshi&theme=tokyonight&hide_border=true" />
+&nbsp;
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jashkaran-joshi&theme=tokyonight" />
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Jashkaran-joshi&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jashkaran-joshi&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
