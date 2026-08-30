@@ -4,15 +4,13 @@
       <stop offset="0%" stop-color="#0F766E" />
       <stop offset="100%" stop-color="#042F2E" />
     </linearGradient>
-    <filter id="shadow_views" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.3"/>
-    </filter>
+    
   </defs>
-  <rect width="160" height="40" rx="8" fill="url(#grad_views)" filter="url(#shadow_views)" />
+  <rect width="160" height="40" rx="8" fill="url(#grad_views)" />
   
   <g transform="translate(12, 10)">
     <path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z" fill="#ffffff" transform="scale(0.833)" />
   </g>
   
-  <text x="40" y="25" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="800" letter-spacing="1.2">VIEWS: 214</text>
+  <text x="40" y="25" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="800" letter-spacing="1.2">VIEWS: 216</text>
 </svg>

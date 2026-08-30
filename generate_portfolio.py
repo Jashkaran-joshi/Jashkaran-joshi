@@ -62,13 +62,10 @@ def generate_svg(proj):
             <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.5"/>
             <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0.1"/>
         </linearGradient>
-        <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
-            <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.4"/>
-        </filter>
     </defs>
     
-    <!-- Shadow and Background -->
-    <rect x="2" y="2" width="{width-4}" height="{height-4}" rx="12" fill="#161B22" filter="url(#shadow)" />
+    <!-- Background -->
+    <rect x="2" y="2" width="{width-4}" height="{height-4}" rx="12" fill="#161B22" />
     <!-- Gradient Border -->
     <rect x="2" y="2" width="{width-4}" height="{height-4}" rx="12" stroke="url(#border_grad_{proj['id']})" stroke-width="1.5" />
     '''

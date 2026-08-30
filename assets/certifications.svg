@@ -1,10 +1,5 @@
 <svg width="960" height="200" viewBox="0 0 960 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <filter id="shadow_certs" x="-5%" y="-5%" width="110%" height="110%">
-            <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.3"/>
-        </filter>
-    </defs>
-    <rect x="2" y="2" width="956" height="196" rx="12" fill="#161B22" filter="url(#shadow_certs)" />
+    <rect x="2" y="2" width="956" height="196" rx="12" fill="#161B22" />
     <rect x="2" y="2" width="956" height="196" rx="12" stroke="#30363D" stroke-width="1" />
     <text x="30" y="45" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="22" font-weight="700">🏆 Certifications</text>
     <text x="30" y="85" fill="#8B949E" font-family="system-ui, sans-serif" font-size="14" font-weight="600">CERTIFICATION</text>

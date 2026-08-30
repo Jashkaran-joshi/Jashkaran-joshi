@@ -17,12 +17,7 @@ def fetch_icon_path(icon_name):
 # Common template
 def get_base_svg(width, height, shadow_id, border_color="#30363D"):
     return f'''
-    <defs>
-        <filter id="{shadow_id}" x="-5%" y="-5%" width="110%" height="110%">
-            <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.3"/>
-        </filter>
-    </defs>
-    <rect x="2" y="2" width="{width-4}" height="{height-4}" rx="12" fill="#161B22" filter="url(#{shadow_id})" />
+    <rect x="2" y="2" width="{width-4}" height="{height-4}" rx="12" fill="#161B22" />
     <rect x="2" y="2" width="{width-4}" height="{height-4}" rx="12" stroke="{border_color}" stroke-width="1" />
     '''
 
