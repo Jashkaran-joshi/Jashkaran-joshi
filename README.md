@@ -1,204 +1,204 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Jaskaran+Joshi+%F0%9F%91%8B;Full-Stack+Developer+%7C+CEH+Master;I+build+secure%2C+scalable+applications." alt="Typing SVG" />
+# Jaskaran Joshi
 
-<br/>
+### Full-Stack Developer · CEH Master · Security Enthusiast
+
+**I build secure, scalable applications where engineering and security meet.**
 
 <p>
-  <a href="https://linkedin.com/in/jaskaran-joshi">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://jaskaranjoshi.online">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=safari&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=safari&logoColor=58A6FF" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/jaskaran-joshi">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
   </a>
   <a href="https://tryhackme.com">
-    <img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" />
+    <img src="https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=58A6FF" alt="TryHackMe" />
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Jashkaran-joshi&style=flat-square&color=58A6FF&label=profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Jashkaran-joshi&style=flat-square&color=58A6FF&label=profile+views" alt="GitHub profile views" />
 
 </div>
 
-<br/>
-
 ---
 
-### `$ whoami`
+## About
 
 ```text
-Name     →  Jaskaran Joshi
-Role     →  Full-Stack Developer · CEH Master · Security Enthusiast
-Stack    →  MERN · Next.js · Django · Python
-Focus    →  Building secure, data-driven, production-grade apps
+Name     → Jaskaran Joshi
+Role     → Full-Stack Developer · CEH Master · Security Enthusiast
+Stack    → MERN · Next.js · Django · Python
+Focus    → Secure, data-driven, production-grade applications
 ```
 
-I build applications that are **functional by design** and **secure by default**.
-My work sits at the intersection of modern full-stack engineering and offensive security — I don't just write features, I think about how they can be broken.
+I build applications that are **functional by design and secure by default**.
 
-Currently deepening expertise in **DevSecOps**, **application security**, and **data-driven automation**.
+My work sits at the intersection of full-stack engineering and offensive security. I think beyond implementation — I also consider how systems can fail, where they can be attacked, and how those risks can be reduced.
+
+Currently deepening my focus on **DevSecOps, application security, and data-driven automation**.
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
+### Frontend
 
-**Frontend**
-```
-React      Next.js
-JavaScript Tailwind CSS
-HTML / CSS
-```
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
 
-  </td>
-    <td valign="top" width="33%">
+### Backend & Languages
 
-**Backend & Languages**
-```
-Node.js    Express.js
-Python     Django
-Flask      C++
-REST APIs
-```
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=5FA04E)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=44B78B)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
 
-  </td>
-    <td valign="top" width="33%">
+### Data & Infrastructure
 
-**Data & Infrastructure**
-```
-MongoDB    PostgreSQL
-SQL        Docker
-Linux      Git
-Postman    Google Apps Script
-```
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=databricks&logoColor=FF3621)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-0D1117?style=flat-square&logo=googleappsscript&logoColor=4285F4)
 
-  </td>
-  </tr>
-</table>
+### Security
 
-**Security Tooling**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=557C94)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=FF6633)
+![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=flat-square&logo=metasploit&logoColor=2596CD)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=1679A7)
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=0E83CD)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/Jashkaran-joshi/TitanAx-Labs">TitanAx Labs</a></h4>
-      <b>AI-Driven Secure Code Generation</b>
-      <br/><br/>
-      <p>An AI-powered platform that generates code with an embedded security linting layer — catching secret exposure and injection patterns before they ship.</p>
-      <p>
-        <kbd>React</kbd>
-        <kbd>Node.js</kbd>
-        <kbd>AI</kbd>
-        <kbd>Security Linting</kbd>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🐾 <a href="https://github.com/Jashkaran-joshi/AdoptNest">AdoptNest</a></h4>
-      <b>Secure Pet Adoption Marketplace</b>
-      <br/><br/>
-      <p>A full-stack pet adoption platform with enterprise-grade identity management — JWT refresh token rotation and role-based access control built in from day one.</p>
-      <p>
-        <kbd>React</kbd>
-        <kbd>Express</kbd>
-        <kbd>Node.js</kbd>
-        <kbd>MongoDB</kbd>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔐 <a href="https://github.com/Jashkaran-joshi/SnipSnap">SnipSnap</a></h4>
-      <b>Encrypted Code Snippet Manager</b>
-      <br/><br/>
-      <p>A developer productivity tool where every snippet is protected with field-level AES-256 encryption — because good code deserves good security.</p>
-      <p>
-        <kbd>React</kbd>
-        <kbd>Node.js</kbd>
-        <kbd>MongoDB</kbd>
-        <kbd>AES-256</kbd>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛡️ What I care about</h4>
-      <br/>
-      <p>Every project I build has <b>security baked in</b> — not bolted on afterward.</p>
-      <p>If you're working on something that needs to be both functional and resilient, let's talk.</p>
-      <p>→ <a href="https://jaskaranjoshi.online">jaskaranjoshi.online</a></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [TitanAx Labs](https://github.com/Jashkaran-joshi/TitanAx-Labs)
+
+**AI-Driven Secure Code Generation**
+
+An AI-powered platform for generating code with a security-focused linting layer designed to catch **secret exposure** and **injection patterns** before they ship.
+
+**Stack:** React · Node.js · AI · Security Linting
+
+</td>
+<td width="50%" valign="top">
+
+### [AdoptNest](https://github.com/Jashkaran-joshi/AdoptNest)
+
+**Secure Pet Adoption Marketplace**
+
+A full-stack pet adoption platform with identity and access controls built around **JWT refresh-token rotation** and **role-based access control**.
+
+**Stack:** React · Express · Node.js · MongoDB
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [SnipSnap](https://github.com/Jashkaran-joshi/SnipSnap)
+
+**Encrypted Code Snippet Manager**
+
+A developer productivity tool that protects stored snippets with **field-level AES-256 encryption**, combining everyday workflow improvements with a security-first approach.
+
+**Stack:** React · Node.js · MongoDB · AES-256
+
+</td>
+<td width="50%" valign="top">
+
+### Security by Default
+
+I approach every project with the same principle:
+
+> **Security should be part of the architecture, not an afterthought.**
+
+I care about building software that is useful, maintainable, and resilient.
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jashkaran-joshi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jashkaran-joshi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="65%" alt="GitHub contribution streak" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jashkaran-joshi&theme=tokyonight" width="80%" alt="Profile Activity"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jashkaran-joshi&theme=tokyonight" width="85%" alt="GitHub profile activity summary" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jashkaran-joshi&theme=tokyonight" width="38%" alt="Top Languages by Repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jashkaran-joshi&theme=tokyonight" width="40%" alt="Languages used across repositories" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jashkaran-joshi&theme=tokyonight" width="38%" alt="Top Languages by Commit"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jashkaran-joshi&theme=tokyonight" width="40%" alt="Most committed languages" />
 
 </div>
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
-| Certification | Issuer | ID |
+| Certification | Issuer | Credential |
 |---|---|---|
-| **CEH Master** — Certified Ethical Hacker | EC-Council | `ECC4870126593` |
-| **CEH Practical** — Certified Ethical Hacker | EC-Council | `ECC7895124630` |
-| **CND** — Certified Network Defender | EC-Council | `ECC7309568214` |
-| Career Essentials in Cybersecurity | Microsoft | `bd494211...` |
-| Cybersecurity Job Simulation | Mastercard | — |
-| Cybersecurity Job Simulation | JPMorgan Chase | — |
-| Technology Job Simulation | Deloitte | — |
+| **CEH Master — Certified Ethical Hacker** | EC-Council | `ECC4870126593` |
+| **CEH Practical — Certified Ethical Hacker** | EC-Council | `ECC7895124630` |
+| **CND — Certified Network Defender** | EC-Council | `ECC7309568214` |
+| **Career Essentials in Cybersecurity** | Microsoft | `bd494211...` |
+| **Cybersecurity Job Simulation** | Mastercard | — |
+| **Cybersecurity Job Simulation** | JPMorgan Chase | — |
+| **Technology Job Simulation** | Deloitte | — |
 
 ---
 
-## 🔭 Currently Exploring
+## Currently Exploring
 
 ```text
-→  DevSecOps pipelines & CI/CD security gates
-→  OWASP Top 10 — deep dives and mitigations
-→  Data analytics & business intelligence automation
-→  CTF challenges on TryHackMe
+→ DevSecOps pipelines & CI/CD security gates
+→ OWASP Top 10 — deep dives and mitigations
+→ Data analytics & business intelligence automation
+→ CTF challenges on TryHackMe
 ```
 
 ---
 
+## Let's Connect
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=Let's+build+something+secure+and+meaningful." alt="CTA" />
+**Building something that needs to be both functional and resilient?**
 
-<br/>
+<p>
+  <a href="https://linkedin.com/in/jaskaran-joshi">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://jaskaranjoshi.online">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=safari&logoColor=58A6FF" alt="Visit portfolio" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaskaran-joshi)
-[![Portfolio](https://img.shields.io/badge/See_My_Work-%23000000.svg?style=for-the-badge&logo=safari&logoColor=white)](https://jaskaranjoshi.online)
-
-<br/>
-
-<sub>Full-Stack · Security · Data · Always shipping.</sub>
+**Full-Stack · Security · Data · Always shipping.**
 
 </div>
