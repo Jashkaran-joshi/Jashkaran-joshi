@@ -36,7 +36,7 @@
 <!-- ABOUT -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<table>
+<table width="100%">
   <tr>
     <td>
 
@@ -66,7 +66,7 @@ Focus  →  Secure, data-driven, production-grade applications
 
 ## &nbsp;🛠&nbsp; Tech Stack
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="25%"><b>Frontend</b></td>
     <td align="center" width="25%"><b>Backend & Languages</b></td>
@@ -123,7 +123,7 @@ Focus  →  Secure, data-driven, production-grade applications
 
 ## &nbsp;🚀&nbsp; Featured Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>
@@ -225,7 +225,7 @@ Focus  →  Secure, data-driven, production-grade applications
 
 ## &nbsp;🏆&nbsp; Certifications
 
-<table>
+<table width="100%">
   <tr>
     <th align="left">Certification</th>
     <th align="left">Issuer</th>
@@ -276,7 +276,7 @@ Focus  →  Secure, data-driven, production-grade applications
 
 ## &nbsp;🔭&nbsp; Currently Exploring
 
-<table>
+<table width="100%">
   <tr>
     <td>🔧</td>
     <td>DevSecOps pipelines & CI/CD security gates</td>
