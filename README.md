@@ -24,8 +24,6 @@
 
 ---
 
-<img align="right" width="380" src="https://streak-stats.demolab.com?user=Jashkaran-joshi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
 ### `$ whoami`
 
 ```text
@@ -35,12 +33,10 @@ Stack    →  MERN · Next.js · Django · Python
 Focus    →  Building secure, data-driven, production-grade apps
 ```
 
-I build applications that are **functional by design** and **secure by default**.  
+I build applications that are **functional by design** and **secure by default**.
 My work sits at the intersection of modern full-stack engineering and offensive security — I don't just write features, I think about how they can be broken.
 
 Currently deepening expertise in **DevSecOps**, **application security**, and **data-driven automation**.
-
-<br clear="right"/>
 
 ---
 
@@ -151,9 +147,20 @@ Postman    Google Apps Script
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=Jashkaran-joshi&theme=tokyonight&hide_border=true" />
-&nbsp;
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jashkaran-joshi&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jashkaran-joshi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jashkaran-joshi&theme=tokyonight" width="100%" alt="Profile Summary"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jashkaran-joshi&theme=tokyonight" width="48%" alt="Repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jashkaran-joshi&theme=tokyonight" width="48%" alt="Most commit language"/>
 
 </div>
 
