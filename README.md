@@ -103,11 +103,11 @@ Focus  →  Secure, data-driven, production-grade applications
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=kali&theme=dark" width="36" height="36" alt="Kali Linux" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-242938?style=flat&logo=burpsuite&logoColor=FF6633" height="36" alt="Burp Suite" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-242938?style=flat&logo=metasploit&logoColor=2596CD" height="36" alt="Metasploit" />
+      <img src="assets/burpsuite.svg" width="36" height="36" alt="Burp Suite" />&nbsp;&nbsp;
+      <img src="assets/metasploit.svg" width="36" height="36" alt="Metasploit" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/-242938?style=flat&logo=wireshark&logoColor=1679A7" height="36" alt="Wireshark" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-242938?style=flat&logo=gnometerminal&logoColor=0E83CD" height="36" alt="Nmap" />
+      <img src="assets/wireshark.svg" width="36" height="36" alt="Wireshark" />&nbsp;&nbsp;
+      <img src="assets/gnometerminal.svg" width="36" height="36" alt="Nmap" />
     </td>
   </tr>
 </table>
