@@ -26,7 +26,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Jashkaran-joshi&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile views" />
+<img src="assets/views.svg" alt="Profile views" />
 
 </div>
 

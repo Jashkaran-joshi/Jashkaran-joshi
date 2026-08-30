@@ -63,3 +63,41 @@ try:
     print('Generated assets/streak.svg')
 except Exception as e:
     print('Error streak:', e)
+
+# 5. Profile Views
+try:
+    url = 'https://komarev.com/ghpvc/?username=Jashkaran-joshi'
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla'})
+    komarev_svg = urllib.request.urlopen(req).read().decode('utf-8')
+    
+    # Extract the view count
+    match = re.search(r'<text[^>]*y="14">(\d+)</text>', komarev_svg)
+    if match:
+        views = match.group(1)
+        # Generate custom premium SVG for views
+        width = 160
+        custom_svg = f'''<svg width="{width}" height="40" viewBox="0 0 {width} 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad_views" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F766E" />
+      <stop offset="100%" stop-color="#042F2E" />
+    </linearGradient>
+    <filter id="shadow_views" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <rect width="{width}" height="40" rx="8" fill="url(#grad_views)" filter="url(#shadow_views)" />
+  
+  <g transform="translate(12, 10)">
+    <path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z" fill="#ffffff" transform="scale(0.833)" />
+  </g>
+  
+  <text x="40" y="25" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="800" letter-spacing="1.2">VIEWS: {views}</text>
+</svg>'''
+        with open('assets/views.svg', 'w', encoding='utf-8') as f:
+            f.write(custom_svg)
+        print(f'Generated assets/views.svg with {views} views')
+    else:
+        print('Error extracting views from komarev SVG')
+except Exception as e:
+    print('Error views:', e)
