@@ -115,57 +115,15 @@ Focus  →  Secure, data-driven, production-grade applications
 
 ## &nbsp;🚀&nbsp; Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="500" valign="top">
-      <h3>
-        <a href="https://github.com/Jashkaran-joshi/TitanAx-Labs">🤖 TitanAx Labs</a>
-      </h3>
-      <p><b>AI-Driven Secure Code Generation</b></p>
-      <p>An AI-powered platform that generates code with a security linting layer — catching <b>secret exposure</b> and <b>injection patterns</b> before they ship.</p>
-      <p>
-        <img src="assets/shield_React_0D1117.svg" />
-        <img src="assets/shield_Node.js_0D1117.svg" />
-        <img src="assets/shield_AI_0D1117.svg" />
-      </p>
-    </td>
-    <td width="500" valign="top">
-      <h3>
-        <a href="https://github.com/Jashkaran-joshi/AdoptNest">🐾 AdoptNest</a>
-      </h3>
-      <p><b>Secure Pet Adoption Marketplace</b></p>
-      <p>A full-stack adoption platform with identity management built around <b>JWT refresh-token rotation</b> and <b>role-based access control</b>.</p>
-      <p>
-        <img src="assets/shield_React_0D1117.svg" />
-        <img src="assets/shield_Express_0D1117.svg" />
-        <img src="assets/shield_MongoDB_0D1117.svg" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="500" valign="top">
-      <h3>
-        <a href="https://github.com/Jashkaran-joshi/SnipSnap">🔐 SnipSnap</a>
-      </h3>
-      <p><b>Encrypted Code Snippet Manager</b></p>
-      <p>A developer tool that protects stored snippets with <b>field-level AES-256 encryption</b> — combining productivity with security-first design.</p>
-      <p>
-        <img src="assets/shield_React_0D1117.svg" />
-        <img src="assets/shield_Node.js_0D1117.svg" />
-        <img src="assets/shield_AES__256_0D1117.svg" />
-      </p>
-    </td>
-    <td width="500" valign="top">
-      <h3>🛡️ Security Philosophy</h3>
-      <br/>
-      <blockquote>
-        <b>Security should be part of the architecture, not an afterthought.</b>
-      </blockquote>
-      <p>Every project I build has security baked in — from authentication flows to encrypted data at rest.</p>
-      <p>→ <a href="https://jaskaranjoshi.online"><b>See my full portfolio</b></a></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/Jashkaran-joshi/TitanAx-Labs"><img src="assets/project_titanax.svg" width="48%" alt="TitanAx Labs" /></a>
+  &nbsp;
+  <a href="https://github.com/Jashkaran-joshi/AdoptNest"><img src="assets/project_adoptnest.svg" width="48%" alt="AdoptNest" /></a>
+  <br/><br/>
+  <a href="https://github.com/Jashkaran-joshi/SnipSnap"><img src="assets/project_snipsnap.svg" width="48%" alt="SnipSnap" /></a>
+  &nbsp;
+  <a href="https://jaskaranjoshi.online"><img src="assets/project_security.svg" width="48%" alt="Security Philosophy" /></a>
+</div>
 
 <br/>
 
