@@ -13,15 +13,15 @@
 <br/><br/>
 
 <a href="https://jaskaranjoshi.online">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=safari&logoColor=58A6FF" alt="Portfolio" />
+  <img src="assets/portfolio.svg" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/jaskaran-joshi">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+  <img src="assets/linkedin.svg" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://tryhackme.com">
-  <img src="https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=58A6FF" alt="TryHackMe" />
+  <img src="assets/tryhackme.svg" alt="TryHackMe" />
 </a>
 
 <br/><br/>
@@ -306,16 +306,15 @@ Focus  →  Secure, data-driven, production-grade applications
 
 **Building something that needs to be functional and resilient?**
 
-<br/>
-
-<a href="https://linkedin.com/in/jaskaran-joshi">
-  <img src="https://img.shields.io/badge/Let's_Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://jaskaranjoshi.online">
-  <img src="https://img.shields.io/badge/See_My_Work-0D1117?style=for-the-badge&logo=safari&logoColor=58A6FF" alt="Portfolio" />
-</a>
-
+<p align="center">
+  <a href="https://linkedin.com/in/Jashkaran-joshi" target="_blank">
+    <img src="assets/letsconnect.svg" alt="Let's Connect" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://Jashkaran-joshi.github.io/" target="_blank">
+    <img src="assets/seemywork.svg" alt="See My Work" />
+  </a>
+</p>
 <br/><br/>
 
 <sub><b>Full-Stack · Security · Data · Always shipping.</b></sub>
