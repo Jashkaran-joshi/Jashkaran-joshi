@@ -41,8 +41,6 @@
 <!-- TECH STACK -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## &nbsp;🛠&nbsp; Tech Stack
-
 <div align="center">
   <img src="assets/tech_stack.svg" width="100%" alt="Tech Stack" />
 </div>
@@ -71,23 +69,13 @@
 <!-- GITHUB ACTIVITY -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## &nbsp;📊&nbsp; GitHub Activity
-
 <div align="center">
-  <img src="assets/streak.svg" width="60%" alt="Contribution Streak" />
-  <br/><br/>
-  <img src="assets/profile-details.svg" width="75%" alt="Profile Activity" />
-  <br/><br/>
-  <img src="assets/repos-per-language.svg" width="37%" alt="Languages by Repo" />
-  &nbsp;&nbsp;
-  <img src="assets/most-commit-language.svg" width="37%" alt="Languages by Commit" />
+  <img src="assets/github_activity.svg" width="100%" alt="GitHub Activity" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- CERTIFICATIONS -->
 <!-- ═══════════════════════════════════════════════════════ -->
-
-## &nbsp;🏆&nbsp; Certifications
 
 <div align="center">
   <img src="assets/certifications.svg" width="100%" alt="Certifications" />
@@ -98,8 +86,6 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- CURRENTLY EXPLORING -->
 <!-- ═══════════════════════════════════════════════════════ -->
-
-## &nbsp;🔭&nbsp; Currently Exploring
 
 <div align="center">
   <img src="assets/exploring.svg" width="100%" alt="Currently Exploring" />

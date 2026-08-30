@@ -99,3 +99,42 @@ try:
         print('Error extracting views from komarev SVG')
 except Exception as e:
     print('Error views:', e)
+
+# 6. Combine all into one Master SVG
+try:
+    with open('assets/streak.svg', 'r', encoding='utf-8') as f: streak = f.read()
+    with open('assets/profile-details.svg', 'r', encoding='utf-8') as f: profile = f.read()
+    with open('assets/repos-per-language.svg', 'r', encoding='utf-8') as f: repos = f.read()
+    with open('assets/most-commit-language.svg', 'r', encoding='utf-8') as f: commits = f.read()
+    
+    # Strip <?xml ... ?> if exists
+    streak = re.sub(r'<\?xml[^>]+\?>', '', streak)
+    profile = re.sub(r'<\?xml[^>]+\?>', '', profile)
+    repos = re.sub(r'<\?xml[^>]+\?>', '', repos)
+    commits = re.sub(r'<\?xml[^>]+\?>', '', commits)
+
+    master_svg = f'''<svg width="960" height="740" viewBox="0 0 960 740" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="2" width="956" height="736" rx="12" fill="#161B22" />
+  <rect x="2" y="2" width="956" height="736" rx="12" stroke="#30363D" stroke-width="1" />
+  
+  <text x="30" y="45" fill="#E6EDF3" font-family="system-ui, sans-serif" font-size="22" font-weight="700">📊 GitHub Activity</text>
+
+  <g transform="translate(232, 70)">
+{streak}
+  </g>
+  <g transform="translate(130, 285)">
+{profile}
+  </g>
+  <g transform="translate(130, 505)">
+{repos}
+  </g>
+  <g transform="translate(490, 505)">
+{commits}
+  </g>
+</svg>'''
+
+    with open('assets/github_activity.svg', 'w', encoding='utf-8') as f:
+        f.write(master_svg)
+    print('Generated assets/github_activity.svg')
+except Exception as e:
+    print('Error generating master SVG:', e)
