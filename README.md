@@ -1,204 +1,326 @@
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- HERO -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# Jaskaran Joshi
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=Jaskaran+Joshi" alt="Name" />
 
-### Full-Stack Developer · CEH Master · Security Enthusiast
+<br/>
 
-**I build secure, scalable applications where engineering and security meet.**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=520&height=30&lines=Full-Stack+Developer+%C2%B7+CEH+Master+%C2%B7+Security+Enthusiast;MERN+%C2%B7+Next.js+%C2%B7+Django+%C2%B7+Python;Secure+by+design.+Scalable+by+default." alt="Tagline" />
 
-<p>
-  <a href="https://jaskaranjoshi.online">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=safari&logoColor=58A6FF" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/jaskaran-joshi">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
-  </a>
-  <a href="https://tryhackme.com">
-    <img src="https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=58A6FF" alt="TryHackMe" />
-  </a>
-</p>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Jashkaran-joshi&style=flat-square&color=58A6FF&label=profile+views" alt="GitHub profile views" />
+<a href="https://jaskaranjoshi.online">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=safari&logoColor=58A6FF" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/jaskaran-joshi">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://tryhackme.com">
+  <img src="https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=58A6FF" alt="TryHackMe" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Jashkaran-joshi&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile views" />
 
 </div>
 
----
+<br/>
 
-## About
-
-```text
-Name     → Jaskaran Joshi
-Role     → Full-Stack Developer · CEH Master · Security Enthusiast
-Stack    → MERN · Next.js · Django · Python
-Focus    → Secure, data-driven, production-grade applications
-```
-
-I build applications that are **functional by design and secure by default**.
-
-My work sits at the intersection of full-stack engineering and offensive security. I think beyond implementation — I also consider how systems can fail, where they can be attacked, and how those risks can be reduced.
-
-Currently deepening my focus on **DevSecOps, application security, and data-driven automation**.
-
----
-
-## Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
-
-### Backend & Languages
-
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=5FA04E)
-![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=44B78B)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=FFFFFF)
-![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
-
-### Data & Infrastructure
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=databricks&logoColor=FF3621)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37)
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-0D1117?style=flat-square&logo=googleappsscript&logoColor=4285F4)
-
-### Security
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=557C94)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=FF6633)
-![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=flat-square&logo=metasploit&logoColor=2596CD)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=1679A7)
-![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=0E83CD)
-
----
-
-## Featured Projects
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ABOUT -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td>
 
-### [TitanAx Labs](https://github.com/Jashkaran-joshi/TitanAx-Labs)
+## &nbsp;⚡&nbsp; About
 
-**AI-Driven Secure Code Generation**
+I build applications that are **functional by design** and **secure by default**.
 
-An AI-powered platform for generating code with a security-focused linting layer designed to catch **secret exposure** and **injection patterns** before they ship.
+My work sits at the intersection of full-stack engineering and offensive security — I think beyond implementation to consider how systems can fail, where they can be attacked, and how those risks can be reduced.
 
-**Stack:** React · Node.js · AI · Security Linting
+Currently deepening my focus on **DevSecOps**, **application security**, and **data-driven automation**.
 
-</td>
-<td width="50%" valign="top">
-
-### [AdoptNest](https://github.com/Jashkaran-joshi/AdoptNest)
-
-**Secure Pet Adoption Marketplace**
-
-A full-stack pet adoption platform with identity and access controls built around **JWT refresh-token rotation** and **role-based access control**.
-
-**Stack:** React · Express · Node.js · MongoDB
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [SnipSnap](https://github.com/Jashkaran-joshi/SnipSnap)
-
-**Encrypted Code Snippet Manager**
-
-A developer productivity tool that protects stored snippets with **field-level AES-256 encryption**, combining everyday workflow improvements with a security-first approach.
-
-**Stack:** React · Node.js · MongoDB · AES-256
-
-</td>
-<td width="50%" valign="top">
-
-### Security by Default
-
-I approach every project with the same principle:
-
-> **Security should be part of the architecture, not an afterthought.**
-
-I care about building software that is useful, maintainable, and resilient.
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jashkaran-joshi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="65%" alt="GitHub contribution streak" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jashkaran-joshi&theme=tokyonight" width="85%" alt="GitHub profile activity summary" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jashkaran-joshi&theme=tokyonight" width="40%" alt="Languages used across repositories" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jashkaran-joshi&theme=tokyonight" width="40%" alt="Most committed languages" />
-
-</div>
-
----
-
-## Certifications
-
-| Certification | Issuer | Credential |
-|---|---|---|
-| **CEH Master — Certified Ethical Hacker** | EC-Council | `ECC4870126593` |
-| **CEH Practical — Certified Ethical Hacker** | EC-Council | `ECC7895124630` |
-| **CND — Certified Network Defender** | EC-Council | `ECC7309568214` |
-| **Career Essentials in Cybersecurity** | Microsoft | `bd494211...` |
-| **Cybersecurity Job Simulation** | Mastercard | — |
-| **Cybersecurity Job Simulation** | JPMorgan Chase | — |
-| **Technology Job Simulation** | Deloitte | — |
-
----
-
-## Currently Exploring
-
-```text
-→ DevSecOps pipelines & CI/CD security gates
-→ OWASP Top 10 — deep dives and mitigations
-→ Data analytics & business intelligence automation
-→ CTF challenges on TryHackMe
+```
+Role   →  Full-Stack Developer · CEH Master · Security Enthusiast
+Stack  →  MERN · Next.js · Django · Python
+Focus  →  Secure, data-driven, production-grade applications
 ```
 
----
+  </td>
+  </tr>
+</table>
 
-## Let's Connect
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## &nbsp;🛠&nbsp; Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="25%"><b>Frontend</b></td>
+    <td align="center" width="25%"><b>Backend & Languages</b></td>
+    <td align="center" width="25%"><b>Data & Infrastructure</b></td>
+    <td align="center" width="25%"><b>Security</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="36" height="36" alt="React" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="36" height="36" alt="Next.js" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="36" height="36" alt="JavaScript" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="36" height="36" alt="Tailwind" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="36" height="36" alt="HTML5" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="36" height="36" alt="CSS3" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="36" height="36" alt="Node.js" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="36" height="36" alt="Express" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" height="36" alt="Python" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=django&theme=dark" width="36" height="36" alt="Django" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="36" height="36" alt="Flask" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="36" height="36" alt="C++" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="36" height="36" alt="MongoDB" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="36" height="36" alt="PostgreSQL" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="36" height="36" alt="Docker" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="36" height="36" alt="Linux" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="Git" />&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="36" height="36" alt="Postman" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kali&theme=dark" width="36" height="36" alt="Kali Linux" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=FF6633" alt="Burp Suite" />
+      <br/>
+      <img src="https://img.shields.io/badge/Metasploit-0D1117?style=flat-square&logo=metasploit&logoColor=2596CD" alt="Metasploit" />
+      <br/>
+      <img src="https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=1679A7" alt="Wireshark" />
+      <br/>
+      <img src="https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=0E83CD" alt="Nmap" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## &nbsp;🚀&nbsp; Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Jashkaran-joshi/TitanAx-Labs">🤖 TitanAx Labs</a>
+      </h3>
+      <p><b>AI-Driven Secure Code Generation</b></p>
+      <p>An AI-powered platform that generates code with a security linting layer — catching <b>secret exposure</b> and <b>injection patterns</b> before they ship.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=5FA04E" />
+        <img src="https://img.shields.io/badge/AI-0D1117?style=flat-square&logo=openai&logoColor=FFFFFF" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Jashkaran-joshi/AdoptNest">🐾 AdoptNest</a>
+      </h3>
+      <p><b>Secure Pet Adoption Marketplace</b></p>
+      <p>A full-stack adoption platform with identity management built around <b>JWT refresh-token rotation</b> and <b>role-based access control</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Jashkaran-joshi/SnipSnap">🔐 SnipSnap</a>
+      </h3>
+      <p><b>Encrypted Code Snippet Manager</b></p>
+      <p>A developer tool that protects stored snippets with <b>field-level AES-256 encryption</b> — combining productivity with security-first design.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=5FA04E" />
+        <img src="https://img.shields.io/badge/AES--256-0D1117?style=flat-square&logo=letsencrypt&logoColor=FFD700" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Security Philosophy</h3>
+      <br/>
+      <blockquote>
+        <b>Security should be part of the architecture, not an afterthought.</b>
+      </blockquote>
+      <p>Every project I build has security baked in — from authentication flows to encrypted data at rest.</p>
+      <p>→ <a href="https://jaskaranjoshi.online"><b>See my full portfolio</b></a></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- GITHUB ACTIVITY -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## &nbsp;📊&nbsp; GitHub Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Jashkaran-joshi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Jashkaran-joshi&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jashkaran-joshi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="70%" alt="Contribution Streak" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jashkaran-joshi&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jashkaran-joshi&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jashkaran-joshi&theme=tokyonight" width="85%" alt="Profile Activity" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jashkaran-joshi&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jashkaran-joshi&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jashkaran-joshi&theme=tokyonight" width="40%" alt="Languages by Repo" />
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jashkaran-joshi&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jashkaran-joshi&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jashkaran-joshi&theme=tokyonight" width="40%" alt="Languages by Commit" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- CERTIFICATIONS -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## &nbsp;🏆&nbsp; Certifications
+
+<table>
+  <tr>
+    <th align="left">Certification</th>
+    <th align="left">Issuer</th>
+    <th align="left">Credential</th>
+  </tr>
+  <tr>
+    <td><b>CEH Master</b> — Certified Ethical Hacker</td>
+    <td>EC-Council</td>
+    <td><code>ECC4870126593</code></td>
+  </tr>
+  <tr>
+    <td><b>CEH Practical</b> — Certified Ethical Hacker</td>
+    <td>EC-Council</td>
+    <td><code>ECC7895124630</code></td>
+  </tr>
+  <tr>
+    <td><b>CND</b> — Certified Network Defender</td>
+    <td>EC-Council</td>
+    <td><code>ECC7309568214</code></td>
+  </tr>
+  <tr>
+    <td>Career Essentials in Cybersecurity</td>
+    <td>Microsoft</td>
+    <td><code>bd494211...</code></td>
+  </tr>
+  <tr>
+    <td>Cybersecurity Job Simulation</td>
+    <td>Mastercard</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>Cybersecurity Job Simulation</td>
+    <td>JPMorgan Chase</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>Technology Job Simulation</td>
+    <td>Deloitte</td>
+    <td>—</td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- CURRENTLY EXPLORING -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## &nbsp;🔭&nbsp; Currently Exploring
+
+<table>
+  <tr>
+    <td>🔧</td>
+    <td>DevSecOps pipelines & CI/CD security gates</td>
+  </tr>
+  <tr>
+    <td>🛡️</td>
+    <td>OWASP Top 10 — deep dives and mitigations</td>
+  </tr>
+  <tr>
+    <td>📊</td>
+    <td>Data analytics & business intelligence automation</td>
+  </tr>
+  <tr>
+    <td>🚩</td>
+    <td>CTF challenges on TryHackMe</td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- FOOTER -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-**Building something that needs to be both functional and resilient?**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1&section=footer" width="100%"/>
 
-<p>
-  <a href="https://linkedin.com/in/jaskaran-joshi">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="Connect on LinkedIn" />
-  </a>
-  <a href="https://jaskaranjoshi.online">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=safari&logoColor=58A6FF" alt="Visit portfolio" />
-  </a>
-</p>
+<br/>
 
-**Full-Stack · Security · Data · Always shipping.**
+**Building something that needs to be functional and resilient?**
+
+<br/>
+
+<a href="https://linkedin.com/in/jaskaran-joshi">
+  <img src="https://img.shields.io/badge/Let's_Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://jaskaranjoshi.online">
+  <img src="https://img.shields.io/badge/See_My_Work-0D1117?style=for-the-badge&logo=safari&logoColor=58A6FF" alt="Portfolio" />
+</a>
+
+<br/><br/>
+
+<sub><b>Full-Stack · Security · Data · Always shipping.</b></sub>
 
 </div>
