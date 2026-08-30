@@ -102,15 +102,12 @@ Focus  →  Secure, data-driven, production-grade applications
       <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="36" height="36" alt="Postman" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=kali&theme=dark" width="36" height="36" alt="Kali Linux" />
+      <img src="https://skillicons.dev/icons?i=kali&theme=dark" width="36" height="36" alt="Kali Linux" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-0D1117?style=flat-square&logo=burpsuite&logoColor=FF6633" height="36" alt="Burp Suite" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-0D1117?style=flat-square&logo=metasploit&logoColor=2596CD" height="36" alt="Metasploit" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=FF6633" alt="Burp Suite" />
-      <br/>
-      <img src="https://img.shields.io/badge/Metasploit-0D1117?style=flat-square&logo=metasploit&logoColor=2596CD" alt="Metasploit" />
-      <br/>
-      <img src="https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=1679A7" alt="Wireshark" />
-      <br/>
-      <img src="https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=gnometerminal&logoColor=0E83CD" alt="Nmap" />
+      <img src="https://img.shields.io/badge/-0D1117?style=flat-square&logo=wireshark&logoColor=1679A7" height="36" alt="Wireshark" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-0D1117?style=flat-square&logo=gnometerminal&logoColor=0E83CD" height="36" alt="Nmap" />
     </td>
   </tr>
 </table>
