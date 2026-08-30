@@ -147,22 +147,24 @@ Postman    Google Apps Script
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jashkaran-joshi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jashkaran-joshi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jashkaran-joshi&theme=tokyonight" width="100%" alt="Profile Activity"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jashkaran-joshi&theme=tokyonight" width="100%" alt="Profile Summary"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jashkaran-joshi&theme=tokyonight" width="48%" alt="Repos per language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jashkaran-joshi&theme=tokyonight" width="48%" alt="Most commit language"/>
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jashkaran-joshi&theme=tokyonight" width="100%" alt="Top Languages by Repo"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jashkaran-joshi&theme=tokyonight" width="100%" alt="Top Languages by Commit"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
