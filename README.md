@@ -227,9 +227,9 @@ Focus  →  Secure, data-driven, production-grade applications
 
 <table width="100%">
   <tr>
-    <th align="left">Certification</th>
-    <th align="left">Issuer</th>
-    <th align="left">Credential</th>
+    <th align="left" width="50%">Certification</th>
+    <th align="left" width="30%">Issuer</th>
+    <th align="left" width="20%">Credential</th>
   </tr>
   <tr>
     <td><b>CEH Master</b> — Certified Ethical Hacker</td>
@@ -278,8 +278,8 @@ Focus  →  Secure, data-driven, production-grade applications
 
 <table width="100%">
   <tr>
-    <td>🔧</td>
-    <td>DevSecOps pipelines & CI/CD security gates</td>
+    <td width="5%">🔧</td>
+    <td width="95%">DevSecOps pipelines & CI/CD security gates</td>
   </tr>
   <tr>
     <td>🛡️</td>
