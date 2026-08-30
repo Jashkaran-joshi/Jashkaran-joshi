@@ -1,87 +1,89 @@
-<div align="center">
-  <div><img src="assets/name.svg" alt="Name" /></div>
-  <div><img src="assets/tagline.svg" alt="Tagline" /></div>
-  <br/><br/>
+# Jaskaran Joshi
 
-<a href="https://jaskaranjoshi.online">
-  <img src="assets/portfolio.svg" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/jaskaran-joshi">
-  <img src="assets/linkedin.svg" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://tryhackme.com">
-  <img src="assets/tryhackme.svg" alt="TryHackMe" />
-</a>
+**Full-Stack Developer · CEH Master · Security Enthusiast**
 
-<br/><br/>
+I build applications that are **functional by design** and **secure by default**. My work sits at the intersection of full-stack engineering and offensive security — I think beyond implementation to consider how systems can fail, where they can be attacked, and how those risks can be reduced.
 
-<img src="assets/views.svg" alt="Profile views" />
+Currently deepening my focus on **DevSecOps**, **application security**, and **data-driven automation**.
 
-</div>
+<p>
+  <a href="https://jaskaranjoshi.online" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://linkedin.com/in/jaskaran-joshi" target="_blank">💼 LinkedIn</a> • 
+  <a href="https://tryhackme.com" target="_blank">🚩 TryHackMe</a>
+</p>
 
-<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=Jashkaran-joshi&color=blue)
 
-<div align="center">
-  <img src="assets/about.svg" width="100%" alt="About" />
-</div>
+---
 
-<br/>
+## 🛠 Tech Stack
 
-<div align="center">
-  <img src="assets/tech_stack.svg" width="100%" alt="Tech Stack" />
-</div>
+| Frontend | Backend & Languages | Data & Infrastructure | Security |
+| :--- | :--- | :--- | :--- |
+| React<br/>Next.js<br/>JavaScript<br/>Tailwind CSS<br/>HTML5<br/>CSS3 | Node.js<br/>Express<br/>Python<br/>Django<br/>Flask<br/>C++ | MongoDB<br/>PostgreSQL<br/>Docker<br/>Linux<br/>Git<br/>Postman | Kali Linux<br/>Burp Suite<br/>Metasploit<br/>Wireshark<br/>Nmap |
 
-<br/>
+---
 
-<div align="center">
-  <a href="https://github.com/Jashkaran-joshi/TitanAx-Labs"><img src="assets/project_titanax.svg" width="48%" alt="TitanAx Labs" /></a>
-  &nbsp;
-  <a href="https://github.com/Jashkaran-joshi/AdoptNest"><img src="assets/project_adoptnest.svg" width="48%" alt="AdoptNest" /></a>
-  <br/><br/>
-  <a href="https://github.com/Jashkaran-joshi/SnipSnap"><img src="assets/project_snipsnap.svg" width="48%" alt="SnipSnap" /></a>
-  &nbsp;
-  <a href="https://jaskaranjoshi.online"><img src="assets/project_security.svg" width="48%" alt="Security Philosophy" /></a>
-</div>
+## 🚀 Featured Projects
 
-<br/>
+### [🤖 TitanAx Labs](https://github.com/Jashkaran-joshi/TitanAx-Labs)
+**AI-Driven Secure Code Generation**
+An AI-powered platform that generates code with a security linting layer — catching **secret exposure** and **injection patterns** before they ship.
+*Tech: React, Node.js, AI*
 
-<div align="center">
-  <img src="assets/github_activity.svg" width="100%" alt="GitHub Activity" />
-</div>
+### [🐾 AdoptNest](https://github.com/Jashkaran-joshi/AdoptNest)
+**Secure Pet Adoption Marketplace**
+A full-stack adoption platform with identity management built around **JWT refresh-token rotation** and **role-based access control**.
+*Tech: React, Express, MongoDB*
 
-<div align="center">
-  <img src="assets/certifications.svg" width="100%" alt="Certifications" />
-</div>
+### [🔐 SnipSnap](https://github.com/Jashkaran-joshi/SnipSnap)
+**Encrypted Code Snippet Manager**
+A developer tool that protects stored snippets with **field-level AES-256 encryption** — combining productivity with security-first design.
+*Tech: React, Node.js, AES-256*
 
-<br/>
+### 🛡️ Security Philosophy
+> **Security should be part of the architecture, not an afterthought.**
 
-<div align="center">
-  <img src="assets/exploring.svg" width="100%" alt="Currently Exploring" />
-</div>
+Every project I build has security baked in — from authentication flows to encrypted data at rest. [See my full portfolio](https://jaskaranjoshi.online)
 
-<br/>
+---
 
-<div align="center">
-
-<img src="assets/capsule_footer.svg" width="100%"/>
-
-<br/>
-
-**Building something that needs to be functional and resilient?**
+## 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://linkedin.com/in/Jashkaran-joshi" target="_blank">
-    <img src="assets/letsconnect.svg" alt="Let's Connect" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://Jashkaran-joshi.github.io/" target="_blank">
-    <img src="assets/seemywork.svg" alt="See My Work" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jashkaran-joshi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jashkaran-joshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-<br/><br/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jashkaran-joshi&theme=tokyonight" width="45%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jashkaran-joshi&theme=tokyonight" width="45%" alt="Most Commits" />
+</p>
 
-<sub><b>Full-Stack · Security · Data · Always shipping.</b></sub>
+---
 
+## 🏆 Certifications
+
+| Certification | Issuer | Credential |
+| :--- | :--- | :--- |
+| **CEH Master** — Certified Ethical Hacker | EC-Council | `ECC4870126593` |
+| **CEH Practical** — Certified Ethical Hacker | EC-Council | `ECC7895124630` |
+| **CND** — Certified Network Defender | EC-Council | `ECC7309568214` |
+| Career Essentials in Cybersecurity | Microsoft | `bd494211...` |
+| Cybersecurity Job Simulation | Mastercard | — |
+| Cybersecurity Job Simulation | JPMorgan Chase | — |
+| Technology Job Simulation | Deloitte | — |
+
+---
+
+## 🔭 Currently Exploring
+
+- 🔧 **DevSecOps pipelines & CI/CD security gates**
+- 🛡️ **OWASP Top 10** — deep dives and mitigations
+- 📊 **Data analytics & business intelligence automation**
+- 🚩 **CTF challenges on TryHackMe**
+
+---
+
+<div align="center">
+  <sub><b>Full-Stack · Security · Data · Always shipping.</b></sub>
 </div>
