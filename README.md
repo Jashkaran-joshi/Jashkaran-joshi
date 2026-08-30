@@ -98,47 +98,50 @@ Postman    Google Apps Script
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### 🤖 [TitanAx Labs](https://github.com/Jashkaran-joshi/TitanAx-Labs)
-**AI-Driven Secure Code Generation**
-
-An AI-powered platform that generates code with an embedded security linting layer — catching secret exposure and injection patterns before they ship.
-
-`React` `Node.js` `AI` `Security Linting`
-
-  </td>
+      <h4>🤖 <a href="https://github.com/Jashkaran-joshi/TitanAx-Labs">TitanAx Labs</a></h4>
+      <b>AI-Driven Secure Code Generation</b>
+      <br/><br/>
+      <p>An AI-powered platform that generates code with an embedded security linting layer — catching secret exposure and injection patterns before they ship.</p>
+      <p>
+        <kbd>React</kbd>
+        <kbd>Node.js</kbd>
+        <kbd>AI</kbd>
+        <kbd>Security Linting</kbd>
+      </p>
+    </td>
     <td width="50%" valign="top">
-
-### 🐾 [AdoptNest](https://github.com/Jashkaran-joshi/AdoptNest)
-**Secure Pet Adoption Marketplace**
-
-A full-stack pet adoption platform with enterprise-grade identity management — JWT refresh token rotation and role-based access control built in from day one.
-
-`React` `Express` `Node.js` `MongoDB`
-
-  </td>
+      <h4>🐾 <a href="https://github.com/Jashkaran-joshi/AdoptNest">AdoptNest</a></h4>
+      <b>Secure Pet Adoption Marketplace</b>
+      <br/><br/>
+      <p>A full-stack pet adoption platform with enterprise-grade identity management — JWT refresh token rotation and role-based access control built in from day one.</p>
+      <p>
+        <kbd>React</kbd>
+        <kbd>Express</kbd>
+        <kbd>Node.js</kbd>
+        <kbd>MongoDB</kbd>
+      </p>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-### 🔐 [SnipSnap](https://github.com/Jashkaran-joshi/SnipSnap)
-**Encrypted Code Snippet Manager**
-
-A developer productivity tool where every snippet is protected with field-level AES-256 encryption — because good code deserves good security.
-
-`React` `Node.js` `MongoDB` `AES-256`
-
-  </td>
+      <h4>🔐 <a href="https://github.com/Jashkaran-joshi/SnipSnap">SnipSnap</a></h4>
+      <b>Encrypted Code Snippet Manager</b>
+      <br/><br/>
+      <p>A developer productivity tool where every snippet is protected with field-level AES-256 encryption — because good code deserves good security.</p>
+      <p>
+        <kbd>React</kbd>
+        <kbd>Node.js</kbd>
+        <kbd>MongoDB</kbd>
+        <kbd>AES-256</kbd>
+      </p>
+    </td>
     <td width="50%" valign="top">
-
-### 🛡️ What I care about
-Every project I build has **security baked in** — not bolted on afterward.
-
-If you're working on something that needs to be both functional and resilient, let's talk.
-
-→ [jaskaranjoshi.online](https://jaskaranjoshi.online)
-
-  </td>
+      <h4>🛡️ What I care about</h4>
+      <br/>
+      <p>Every project I build has <b>security baked in</b> — not bolted on afterward.</p>
+      <p>If you're working on something that needs to be both functional and resilient, let's talk.</p>
+      <p>→ <a href="https://jaskaranjoshi.online">jaskaranjoshi.online</a></p>
+    </td>
   </tr>
 </table>
 
